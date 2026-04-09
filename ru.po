@@ -1,0 +1,5458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgctxt "/txt_Update_Office2"
+msgid "+10% advertising revenue"
+msgstr "+10% дохода от рекламы"
+
+msgctxt "/txt_InterestPlus"
+msgid "+{CUR}{NUM} Interest"
+msgstr "-{CUR}{NUM} Проценты"
+
+msgctxt "/txt_Update_Office1"
+msgid "-10% penalty"
+msgstr "-10% к штрафам"
+
+msgctxt "/txt_Update_Office3"
+msgid "-30% maintenance costs for transmission towers"
+msgstr "-30% к расходам на обслуживание телевышек"
+
+msgctxt "/txt_InterestMinus"
+msgid "-{CUR}{NUM} Interest"
+msgstr "-{CUR}{NUM} Проценты"
+
+msgctxt "/txt_Flux"
+msgid "1.21 gigawatts"
+msgstr "1,21 гигаватта"
+
+msgctxt "/txt_ChannelA"
+msgid "1st channel"
+msgstr "1-й канал"
+
+msgctxt "/txt_ChannelB"
+msgid "2nd channel"
+msgstr "2-й канал"
+
+msgctxt "/txt_ChannelC"
+msgid "3rd channel"
+msgstr "3-й канал"
+
+msgctxt "/txt_TeamStunt_3"
+msgid "86South Productions"
+msgstr "86South Productions"
+
+msgctxt "/txt_Tooltip_RandomEvent_4"
+msgid ""
+"A boom in the construction industry is driving up costs for current building "
+"projects. Transmission towers are <Bold>100%</> more expensive."
+msgstr ""
+"Бум в строительной отрасли привел к росту стоимости проектов. Телевышки "
+"стали дороже на <Bold>100%</>."
+
+msgctxt "/txt_NPC_ShowsMarket6"
+msgid "A cooking show, a talent show, or a dating show? What do you need?"
+msgstr "Кулинарное шоу, шоу талантов или свидания вслепую? Что вам нужно?"
+
+msgctxt "/txt_MB_SelectedPlayerDisabled"
+msgid "A deactivated TV channel has been selected."
+msgstr "Выбран неактивный телеканал."
+
+msgctxt "/txt_DetectiveText"
+msgid "A detective enters the building"
+msgstr "В здание вошел детектив"
+
+msgctxt "/txt_Tooltip_RandomEvent_2"
+msgid ""
+"A discount war in the media landscape is causing prices for films and series "
+"to fall by <Bold>50%</> ."
+msgstr ""
+"Ценовые войны в медиасфере привели к падению цен на фильмы и сериалы на "
+"<Bold>50%</>."
+
+msgctxt "/txt_TooltipBonusReputation"
+msgid "A good reputation increases your audience."
+msgstr "Хорошая репутация увеличивает вашу аудиторию."
+
+msgctxt "/txt_TurtlesSword"
+msgid "A katana and pizzas"
+msgstr "Катана и пицца"
+
+msgctxt "/txt_MarketingText"
+msgid ""
+"A marketing campaign is running for the next 12 blocks. Only one campaign "
+"can be active."
+msgstr ""
+"Маркетинговая кампания запущена на следующие 12 блоков. Активной может быть "
+"только одна кампания."
+
+msgctxt "/txt_NewDayMessage"
+msgid "A new day begins ..."
+msgstr "Начинается новый день..."
+
+msgctxt "/txt_NewQuarterMessage"
+msgid "A new quarter begins ..."
+msgstr "Начинается новый квартал..."
+
+msgctxt "/txt_ProgramDirectorText"
+msgid "A person has entered the building"
+msgstr "В здание кто-то вошел"
+
+msgctxt "/txt_MB_AlreadySelectedChannel"
+msgid "A player has already selected this TV channel!"
+msgstr "Игрок уже выбрал этот телеканал!"
+
+msgctxt "/txt_NPC_Live5"
+msgid "A soccer World Cup is always a crowd puller."
+msgstr "Чемпионат мира по футболу — это всегда толпы зрителей."
+
+msgctxt "/txt_GhostTrap"
+msgid "A strange trap"
+msgstr "Странная ловушка"
+
+msgctxt "/txt_Tooltip_RandomEvent_7"
+msgid ""
+"A tornado warning has been issued for the entire broadcast area. Maintenance "
+"costs for transmission towers will increase by <Bold>100%</>."
+msgstr ""
+"Объявлено предупреждение о торнадо во всей зоне вещания. Расходы на "
+"обслуживание телевышек вырастут на <Bold>100%</>."
+
+msgctxt "/txt_NPC_Sendeturm9"
+msgid "A transmission tower is a prestigious object!"
+msgstr "Телевышка — это престижный объект!"
+
+msgctxt "/txt_AiComeback"
+msgid "AI can make a comeback after bankruptcy"
+msgstr "ИИ может вернуться в игру после банкротства"
+
+msgctxt "/txt_Accept"
+msgid "Accept"
+msgstr "Принять"
+
+msgctxt "/txt_NPC_Licences9"
+msgid ""
+"According to the regulations, you may only broadcast after you have signed "
+"here."
+msgstr "Согласно регламенту, вещание разрешено только после подписи здесь."
+
+msgctxt "/txt_BuyLicense"
+msgid "Acquire a license"
+msgstr "Приобрести лицензию"
+
+msgctxt "/txt_Focus_0"
+msgid "Action"
+msgstr "Экшен"
+
+msgctxt "/txt_GenreAction"
+msgid "Action"
+msgstr "Боевик"
+
+msgctxt "/txt_TeamStunt_4"
+msgid "Action Stunts Unlimited Inc."
+msgstr "Action Stunts Unlimited Inc."
+
+msgctxt "/txt_Actor"
+msgid "Actor"
+msgstr "Актер"
+
+msgctxt "/txt_Actuality"
+msgid "Actuality"
+msgstr "Актуальность"
+
+msgctxt "/txt_Help_MovieMarketPremium_5T"
+msgid "Actuality"
+msgstr "Актуальность"
+
+msgctxt "/txt_Help_MovieMarketRent_5T"
+msgid "Actuality"
+msgstr "Актуальность"
+
+msgctxt "/txt_Help_MovieMarket_4T"
+msgid "Actuality"
+msgstr "Актуальность"
+
+msgctxt "/txt_Help_NewsMarket_2T"
+msgid "Actuality"
+msgstr "Актуальность"
+
+msgctxt "/txt_Help_News_2T"
+msgid "Actuality"
+msgstr "Актуальность"
+
+msgctxt "/txt_Help_PiracyMarket_5T"
+msgid "Actuality"
+msgstr "Актуальность"
+
+msgctxt "/txt_Help_Schedule_7T"
+msgid "Actuality"
+msgstr "Актуальность"
+
+msgctxt "/txt_Help_ShowMarket_4T"
+msgid "Actuality"
+msgstr "Актуальность"
+
+msgctxt "/txt_DropAllArchive"
+msgid "Add all items to the archive"
+msgstr "Отправить всё в архив"
+
+msgctxt "/txt_AddProductionToInventory"
+msgid "Add completed production to inventory"
+msgstr "Добавить готовый продукт в инвентарь"
+
+msgctxt "/txt_AdditionalViaSatellites"
+msgid "Additional range via satellites"
+msgstr "Доп. охват через спутники"
+
+msgctxt "/txt_TargetGroup_3"
+msgid "Adults"
+msgstr "Взрослые"
+
+msgctxt "/txt_GenreAdventure"
+msgid "Adventure"
+msgstr "Приключения"
+
+msgctxt "/txt_Advertisements"
+msgid "Advertisements"
+msgstr "Рекламные ролики"
+
+msgctxt "/txt_Advertising"
+msgid "Advertising"
+msgstr "Реклама"
+
+msgctxt "/txt_AdvertisingAndMisc"
+msgid "Advertising & Short."
+msgstr "Реклама и кор. программы"
+
+msgctxt "/txt_AdvertisingAgency"
+msgid "Advertising agency"
+msgstr "Рекламное агентство"
+
+msgctxt "/txt_AdvertisingCompleted"
+msgid "Advertising contract completed"
+msgstr "Рекламный контракт выполнен"
+
+msgctxt "/txt_AdvertisingFailed"
+msgid "Advertising contract failed"
+msgstr "Рекламный контракт провален"
+
+msgctxt "/txt_AdvertisingContracts"
+msgid "Advertising contracts"
+msgstr "Рекламные контракты"
+
+msgctxt "/txt_Tutorial16_L"
+msgid ""
+"Advertising contracts are your main source of income. Most require multiple "
+"commercials and a minimum audience size. Some have special conditions, so be "
+"sure to review them carefully. Click the ‘?’ in the top-right corner for "
+"more details."
+msgstr ""
+"Рекламные контракты — ваш основной источник дохода. Для большинства из них "
+"требуется показать несколько роликов и иметь минимальный размер аудитории. У "
+"некоторых есть особые условия, так что внимательно их изучайте. Нажмите «?», "
+"чтобы узнать подробности."
+
+msgctxt "/txt_Help_Advertise_2"
+msgid ""
+"Advertising contracts cannot be returned. To get rid of them, you must send "
+"them to recycling, but doing so will incur a penalty."
+msgstr ""
+"Рекламные контракты нельзя вернуть. Чтобы избавиться от них, их нужно "
+"отправить на утилизацию, что повлечет за собой штраф."
+
+msgctxt "/txt_NPC_AdvertiseMarket9"
+msgid "Advertising is more important than the product itself!"
+msgstr "Реклама важнее самого продукта!"
+
+msgctxt "/txt_NPC_AdvertiseMarket4"
+msgid "Advertising shows people what they really need."
+msgstr "Реклама показывает людям то, что им действительно нужно."
+
+msgctxt "/txt_TeamPostPro_4"
+msgid "Afterlight Studios Limited"
+msgstr "Afterlight Studios Limited"
+
+msgctxt "/txt_AgeRating"
+msgid "Age rating"
+msgstr "Возрастной рейтинг"
+
+msgctxt "/txt_Help_ShowMarket_5T"
+msgid "Age rating"
+msgstr "Возрастной рейтинг"
+
+msgctxt "/txt_Help_Teleshop_1"
+msgid ""
+"Airing a teleshopping show upsets viewers, causing an audience penalty for "
+"the next program."
+msgstr ""
+"Показ телемагазина расстраивает зрителей, что вызывает штраф к охвату "
+"аудитории для следующей программы."
+
+msgctxt "/txt_Tutorial11_L"
+msgid ""
+"Airing commercials after a movie is your channel’s main source of income. "
+"Now head to the advertising agency and pick up some ad contracts. Leave the "
+"room and go to the advertising agency."
+msgstr ""
+"Показ рекламы после фильма — основной источник дохода вашего канала. Теперь "
+"отправляйтесь в рекламное агентство и возьмите несколько контрактов. Выйдите "
+"из комнаты и идите в агентство."
+
+msgctxt "/txt_All"
+msgid "All"
+msgstr "Все"
+
+msgctxt "/txt_NPC_PiracyMarket10"
+msgid "All my movies are cheaper. But don't ask me why."
+msgstr "Все мои фильмы дешевле. Но не спрашивайте почему."
+
+msgctxt "/txt_AllPlayers"
+msgid "All players"
+msgstr "Все игроки"
+
+msgctxt "/txt_Alphabet"
+msgid "Alphabet"
+msgstr "Алфавит"
+
+msgctxt "/txt_AlreadyBroadcasted"
+msgid "Already broadcasted"
+msgstr "Уже в эфире"
+
+msgctxt "/txt_AmbientOcclusion"
+msgid "Ambient Occlusion"
+msgstr "Ambient Occlusion"
+
+msgctxt "/txt_TooltipBonusMarketing"
+msgid "An ongoing marketing campaign increases your ratings."
+msgstr "Активная маркетинговая кампания повышает ваши рейтинги."
+
+msgctxt "/txt_AntiAliasing"
+msgid "Anti-Aliasing"
+msgstr "Сглаживание"
+
+msgctxt "/txt_GenreAntiWar"
+msgid "Anti-War Film"
+msgstr "Антивоенный фильм"
+
+msgctxt "/txt_IndiJonesHat"
+msgid "Archaeologist's hat"
+msgstr "Шляпа археолога"
+
+msgctxt "/txt_Archive"
+msgid "Archive"
+msgstr "Архив"
+
+msgctxt "/txt_Help_Schedule_8T"
+msgid "Archive"
+msgstr "Архив"
+
+msgctxt "/txt_ArchiveSpace"
+msgid "Archive space"
+msgstr "Место в архиве"
+
+msgctxt "/txt_MB_DeleteAllMessages"
+msgid "Are you sure you want to delete all messages?"
+msgstr "Вы уверены, что хотите удалить все сообщения?"
+
+msgctxt "/txt_MB_DeleteBroadcastSchedule"
+msgid "Are you sure you want to delete the entire broadcast schedule?"
+msgstr "Вы уверены, что хотите полностью очистить сетку вещания?"
+
+msgctxt "/txt_MB_Recycle"
+msgid "Are you sure you want to discard all items?"
+msgstr "Вы уверены, что хотите выбросить все предметы?"
+
+msgctxt "/txt_HelloProgramChef5"
+msgid "Are you the new program director?"
+msgstr "Вы новый программный директор?"
+
+msgctxt "/txt_Tooltip_RandomEvent_5"
+msgid ""
+"As a result of government funding to support the media, licences from the "
+"state media authority are available at a <Bold>50%</> discount."
+msgstr ""
+"Благодаря государственным субсидиям, лицензии от надзорных органов доступны "
+"со скидкой <Bold>50%</>."
+
+msgctxt "/txt_Tutorial18_L"
+msgid "As you’ve already learned, use the elevator to reach the press agency."
+msgstr ""
+"Как вы уже знаете, воспользуйтесь лифтом, чтобы добраться до агентства "
+"новостей."
+
+msgctxt "/txt_SatelliteName2"
+msgid "Astranet"
+msgstr "Astranet"
+
+msgctxt "/txt_Tutorial15_L"
+msgid ""
+"At the advertising agency, you can sign regular ad contracts as well as "
+"contracts for teleshopping shows."
+msgstr ""
+"В рекламном агентстве вы можете подписывать обычные контракты, а также "
+"контракты на телемагазины."
+
+msgctxt "/txt_TooltipBonusWeekday"
+msgid "At the end of the week, people spend more time watching TV."
+msgstr "В конце недели люди проводят больше времени у телевизора."
+
+msgctxt "/txt_Help_FilmstudioTitle"
+msgid ""
+"At the film studio, you can produce your own movies, TV series, and shows."
+msgstr "В киностудии вы можете снимать собственные фильмы, сериалы и шоу."
+
+msgctxt "/txt_Help_NewsMarket_0"
+msgid ""
+"At the press agency, you can purchase current news stories. To assign them "
+"to your news programs, you must go to your news office."
+msgstr ""
+"В агентстве новостей можно купить свежие репортажи. Чтобы включить их в "
+"программу, зайдите в свой отдел новостей."
+
+msgctxt "/txt_DetectiveTitle"
+msgid "Attention"
+msgstr "Внимание"
+
+msgctxt "/txt_AudienceReachShort"
+msgid "Aud. Reach"
+msgstr "Охват"
+
+msgctxt "/txt_Audience"
+msgid "Audience"
+msgstr "Аудитория"
+
+msgctxt "/txt_Help_LiveMarket_1T"
+msgid "Audience bonus"
+msgstr "Бонус к аудитории"
+
+msgctxt "/txt_Help_Marketing_1T"
+msgid "Audience bonus"
+msgstr "Бонус к аудитории"
+
+msgctxt "/txt_Help_NewsMarket_1T"
+msgid "Audience bonus"
+msgstr "Бонус к аудитории"
+
+msgctxt "/txt_Help_News_1T"
+msgid "Audience bonus"
+msgstr "Бонус к аудитории"
+
+msgctxt "/txt_Help_Teleshop_1T"
+msgid "Audience penalty"
+msgstr "Штраф к аудитории"
+
+msgctxt "/txt_AudienceReach"
+msgid "Audience reach"
+msgstr "Охват аудитории"
+
+msgctxt "/txt_AudienceShare"
+msgid "Audience share"
+msgstr "Доля аудитории"
+
+msgctxt "/txt_Australia"
+msgid "Australia"
+msgstr "Австралия"
+
+msgctxt "/txt_Austria"
+msgid "Austria"
+msgstr "Австрия"
+
+msgctxt "/txt_FocusShow_1"
+msgid "Authenticity"
+msgstr "Достоверность"
+
+msgctxt "/txt_AutoPause"
+msgid "Auto Pause [Singleplayer only]"
+msgstr "Автопауза [Только соло]"
+
+msgctxt "/txt_RepeatMarketing"
+msgid "Automatically repeat marketing campaign"
+msgstr "Автоповтор маркетинга"
+
+msgctxt "/txt_Autosave"
+msgid "Autosave"
+msgstr "Автосохранение"
+
+msgctxt "/txt_Help_JobMarket_0T"
+msgid "Available Cast"
+msgstr "Доступный актёрский состав"
+
+msgctxt "/txt_AvailableActors"
+msgid "Available actors"
+msgstr "Доступные актеры"
+
+msgctxt "/txt_AvailableCreativeProducers"
+msgid "Available creative producers"
+msgstr "Доступные креативщики"
+
+msgctxt "/txt_AvailableDirectors"
+msgid "Available directors"
+msgstr "Доступные режиссеры"
+
+msgctxt "/txt_AvailableLicenses"
+msgid "Available licenses"
+msgstr "Доступные лицензии"
+
+msgctxt "/txt_AvailablePresenters"
+msgid "Available presenters"
+msgstr "Доступные ведущие"
+
+msgctxt "/txt_AvailableShowProducers"
+msgid "Available show producers"
+msgstr "Доступные продюсеры шоу"
+
+msgctxt "/txt_AvailableStories"
+msgid "Available stories"
+msgstr "Доступные сюжеты"
+
+msgctxt "/txt_AverageReward"
+msgid "Average reward"
+msgstr "Средняя награда"
+
+msgctxt "/txt_Awards"
+msgid "Awards"
+msgstr "Награды"
+
+msgctxt "/txt_TeamSetContruct_1"
+msgid "B-Movie Workshop Limited"
+msgstr "B-Movie Workshop Limited"
+
+msgctxt "/txt_Back"
+msgid "Back"
+msgstr "Назад"
+
+msgctxt "/txt_BackToMainMenu"
+msgid "Back to main menu"
+msgstr "В главное меню"
+
+msgctxt "/txt_Level_1"
+msgid "Backyard Broadcaster"
+msgstr "Вещатель с заднего двора"
+
+msgctxt "/txt_BasicCosts"
+msgid "Basic costs"
+msgstr "Базовые расходы"
+
+msgctxt "/txt_BasicSettings"
+msgid "Basic settings"
+msgstr "Базовые настройки"
+
+msgctxt "/txt_TeamSetContruct_2"
+msgid "Bavaria Stage Construction Ltd."
+msgstr "Bavaria Stage Construction Ltd."
+
+msgctxt "/txt_NPC_WC4"
+msgid "Be out in a minute!"
+msgstr "Выйду через минуту!"
+
+msgctxt "/txt_NPC_AdvertiseMarket3"
+msgid "Be sure to comply with all contractual agreements!"
+msgstr "Обязательно соблюдайте все пункты контракта!"
+
+msgctxt "/txt_Tooltip_RandomEvent_6"
+msgid ""
+"Because the state media authority is facing a higher administrative burden, "
+"licence fees have increased by <Bold>100%</>."
+msgstr ""
+"Из-за возросшей нагрузки на госорганы, лицензионные сборы выросли на "
+"<Bold>100%</>."
+
+msgctxt "/txt_Belgium"
+msgid "Belgium"
+msgstr "Бельгия"
+
+msgctxt "/txt_AwardC"
+msgid "Best in-house production"
+msgstr "Лучшее собственное производство"
+
+msgctxt "/txt_AwardA"
+msgid "Best program"
+msgstr "Лучшая программа"
+
+msgctxt "/txt_TeamCamera_0"
+msgid "Blind Camera LLC"
+msgstr "Blind Camera LLC"
+
+msgctxt "/txt_TeamFX_0"
+msgid "Blind Shell LLC"
+msgstr "Blind Shell LLC"
+
+msgctxt "/txt_Blocks"
+msgid "Blocks"
+msgstr "Блоки"
+
+msgctxt "/txt_DefaultChannelName_2"
+msgid "Blue Satellite TV"
+msgstr "Blue Satellite TV"
+
+msgctxt "/txt_Help_MovieAward_1T"
+msgid "Bonus"
+msgstr "Бонус"
+
+msgctxt "/txt_Help_Schedule_2T"
+msgid "Bonus"
+msgstr "Бонус"
+
+msgctxt "/txt_BonusForTrends"
+msgid "Bonus for trends"
+msgstr "Бонус за тренды"
+
+msgctxt "/txt_TooltipBonusAudience"
+msgid ""
+"Bonus on the audience ratings\n"
+"[Except for news programs and live events]"
+msgstr ""
+"Бонус к рейтингам\n"
+"[Кроме новостей и прямых эфиров]"
+
+msgctxt "/txt_Brazil"
+msgid "Brazil"
+msgstr "Бразилия"
+
+msgctxt "/txt_BroadcastDate"
+msgid "Broadcast date"
+msgstr "Дата эфира"
+
+msgctxt "/txt_BroadcastPeriod"
+msgid "Broadcast period"
+msgstr "Период вещания"
+
+msgctxt "/txt_BroadcastSchedule"
+msgid "Broadcast schedule"
+msgstr "Сетка вещания"
+
+msgctxt "/txt_Help_Archives_1T"
+msgid "Broadcast schedule"
+msgstr "Сетка вещания"
+
+msgctxt "/txt_Help_Schedule_6T"
+msgid "Broadcast slot"
+msgstr "Таймслот"
+
+msgctxt "/txt_BroadcastStart"
+msgid "Broadcast starts in {HOUR}:{T}{MIN}"
+msgstr "Эфир начнется через {HOUR}:{T}{MIN}"
+
+msgctxt "/txt_BroadcastStatistics"
+msgid "Broadcast statistics"
+msgstr "Статистика вещания"
+
+msgctxt "/txt_BroadcastTime"
+msgid "Broadcast time"
+msgstr "Время вещания"
+
+msgctxt "/txt_BroadcastTowers"
+msgid "Broadcast towers"
+msgstr "Телевышки"
+
+msgctxt "/txt_Help_TransTower_1"
+msgid ""
+"Broadcast towers have different coverage ranges depending on their location."
+msgstr "Зона покрытия телевышек зависит от их местоположения."
+
+msgctxt "/txt_BroadcastingLicenses"
+msgid "Broadcasting licenses"
+msgstr "Лицензии на вещание"
+
+msgctxt "/txt_LicenceLiveEvents"
+msgid "Broadcasting permission for live events: {CUR}{NUM}"
+msgstr "Разрешение на прямые трансляции: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceMoviesPremium"
+msgid "Broadcasting permission for premium films: {CUR}{NUM}"
+msgstr "Разрешение на премиальные фильмы: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceShows"
+msgid "Broadcasting permission for shows: {CUR}{NUM}"
+msgstr "Разрешение на телешоу: {CUR}{NUM}"
+
+msgctxt "/txt_Licence_Teleshop"
+msgid "Broadcasting permission for teleshopping programs: {CUR}{NUM}"
+msgstr "Разрешение на телемагазины: {CUR}{NUM}"
+
+msgctxt "/txt_Broadcasts"
+msgid "Broadcasts"
+msgstr "Трансляции"
+
+msgctxt "/txt_TeamStunt_0"
+msgid "Broken Leg Stunt Group"
+msgstr "Broken Leg Stunt Group"
+
+msgctxt "/txt_Budget"
+msgid "Budget"
+msgstr "Бюджет"
+
+msgctxt "/txt_Buy"
+msgid "Buy"
+msgstr "Купить"
+
+msgctxt "/txt_BuySellBroadcastTowers"
+msgid "Buy / Sell broadcast towers"
+msgstr "Купить / Продать телевышки"
+
+msgctxt "/txt_BuyLiveEvent"
+msgid "Buy Live Event"
+msgstr "Купить прямую трансляцию"
+
+msgctxt "/txt_BuyBroadcastTower"
+msgid "Buy broadcast tower"
+msgstr "Купить телевышку"
+
+msgctxt "/txt_BuyMovies"
+msgid "Buy movies and series"
+msgstr "Купить фильмы и сериалы"
+
+msgctxt "/txt_BuyNews"
+msgid "Buy news"
+msgstr "Купить новости"
+
+msgctxt "/txt_BuyPirated"
+msgid "Buy pirated copies"
+msgstr "Купить пиратские копии"
+
+msgctxt "/txt_BuyPremiumMovies"
+msgid "Buy premium movies"
+msgstr "Купить премиум-фильмы"
+
+msgctxt "/txt_BuyShows"
+msgid "Buy shows"
+msgstr "Купить шоу"
+
+msgctxt "/txt_Update_News_Text"
+msgid "By updating this room, you can broadcast longer news programs."
+msgstr ""
+"Улучшение этого помещения позволит транслировать более длинные новости."
+
+msgctxt "/txt_Update_Office_Text"
+msgid ""
+"By updating your office, you can reduce penalties and maintenance costs for "
+"broadcast towers and increase advertising revenue."
+msgstr ""
+"Улучшение офиса снижает штрафы и расходы на телевышки, а также увеличивает "
+"доход от рекламы."
+
+msgctxt "/txt_Update_Filmstudio_Text"
+msgid ""
+"By upgrading the film studio, you can shoot larger film and show productions."
+msgstr "Улучшение киностудии позволяет снимать более масштабные фильмы и шоу."
+
+msgctxt "/txt_Update_Archive_Text"
+msgid "By upgrading your archive, you can store more objects."
+msgstr "Улучшение архива увеличивает его вместимость."
+
+msgctxt "/txt_CameraDistance"
+msgid "Camera Distance"
+msgstr "Дистанция камеры"
+
+msgctxt "/txt_CameraCrew"
+msgid "Camera crew"
+msgstr "Операторская группа"
+
+msgctxt "/txt_Help_Marketing_2T"
+msgid "Campaign"
+msgstr "Кампания"
+
+msgctxt "/txt_NPC_Bank6"
+msgid "Can I assist you with a loan between friends?"
+msgstr "Могу я помочь вам с дружеским кредитом?"
+
+msgctxt "/txt_Help_MovieMarketPremium_1"
+msgid "Can be broadcast at any time without losing viewers."
+msgstr "Можно транслировать в любое время без потери зрителей."
+
+msgctxt "/txt_NPC_WC8"
+msgid "Can you wait a moment?"
+msgstr "Можете подождать секунду?"
+
+msgctxt "/txt_Canada"
+msgid "Canada"
+msgstr "Канада"
+
+msgctxt "/txt_Cancel"
+msgid "Cancel"
+msgstr "Отмена"
+
+msgctxt "/txt_Cast"
+msgid "Cast"
+msgstr "Актерский состав"
+
+msgctxt "/txt_CastAndFocus"
+msgid "Cast & Focus"
+msgstr "Актеры и фокус"
+
+msgctxt "/txt_ChangeFocus"
+msgid "Change focus"
+msgstr "Изменить фокус"
+
+msgctxt "/txt_TargetGroup_0"
+msgid "Children"
+msgstr "Дети"
+
+msgctxt "/txt_China"
+msgid "China"
+msgstr "Китай"
+
+msgctxt "/txt_Tutorial13_L"
+msgid "Click the highlighted button to go to the advertising agency."
+msgstr "Нажмите на подсвеченную кнопку, чтобы перейти в рекламное агентство."
+
+msgctxt "/txt_Tutorial29_L"
+msgid ""
+"Click the ‘Advertising’ button to view all commercials. Then drag and drop a "
+"commercial into a suitable ad slot. Once you’re done, exit the menu."
+msgstr ""
+"Нажмите на кнопку «Реклама», чтобы увидеть все ролики. Затем перетащите "
+"ролик в подходящий слот. По завершении выходите из меню."
+
+msgctxt "/txt_Tutorial23_L"
+msgid ""
+"Click ‘Manage news’ to add a story. Later in the game, you can upgrade this "
+"room to broadcast longer news programs with multiple blocks."
+msgstr ""
+"Нажмите «Управление новостями», чтобы добавить сюжет. Позже вы сможете "
+"улучшить эту комнату, чтобы выпускать длинные новости из нескольких блоков."
+
+msgctxt "/txt_Close"
+msgid "Close"
+msgstr "Закрыть"
+
+msgctxt "/txt_CloseTutorial"
+msgid "Close tutorial"
+msgstr "Закрыть обучение"
+
+msgctxt "/txt_Closed"
+msgid "Closed!"
+msgstr "Закрыто!"
+
+msgctxt "/txt_NPC_AdvertiseMarket6"
+msgid "Come in and check out the latest advertising contracts."
+msgstr "Заходите и посмотрите новые рекламные контракты."
+
+msgctxt "/txt_GenreComedy"
+msgid "Comedy"
+msgstr "Комедия"
+
+msgctxt "/txt_Help_Advertise_1T"
+msgid "Commercials and Audience Size"
+msgstr "Реклама и охват"
+
+msgctxt "/txt_Rarity_0"
+msgid "Common"
+msgstr "Обычный"
+
+msgctxt "/txt_FocusShow_4"
+msgid "Competition"
+msgstr "Конкуренция"
+
+msgctxt "/txt_Completed"
+msgid "Completed"
+msgstr "Завершено"
+
+msgctxt "/txt_FocusShow_6"
+msgid "Complexity"
+msgstr "Сложность"
+
+msgctxt "/txt_Focus_5"
+msgid "Complexity"
+msgstr "Сложность"
+
+msgctxt "/txt_ConductViewerSurvey"
+msgid "Conduct a viewer survey"
+msgstr "Провести опрос зрителей"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_4"
+msgid "Construction boom"
+msgstr "Строительный бум"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_3"
+msgid "Construction crisis"
+msgstr "Строительный кризис"
+
+msgctxt "/txt_ConstructionWorker"
+msgid "Construction worker"
+msgstr "Строитель"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_13"
+msgid "Consumer crisis"
+msgstr "Потребительский кризис"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_12"
+msgid "Consumption boom"
+msgstr "Потребительский бум"
+
+msgctxt "/txt_Continue"
+msgid "Continue"
+msgstr "Продолжить"
+
+msgctxt "/txt_Help_Recycle_2T"
+msgid "Contracts"
+msgstr "Контракты"
+
+msgctxt "/txt_GenreCookingShow"
+msgid "Cooking show"
+msgstr "Кулинарное шоу"
+
+msgctxt "/txt_CostPerBlock"
+msgid "Cost per block"
+msgstr "Цена за блок"
+
+msgctxt "/txt_Costs"
+msgid "Costs"
+msgstr "Расходы"
+
+msgctxt "/txt_CostsForSwitching"
+msgid "Costs for switching"
+msgstr "Стоимость переключения"
+
+msgctxt "/txt_CostsPerQuarter"
+msgid "Costs per day"
+msgstr "Расходы в день"
+
+msgctxt "/txt_TeamCostume_0"
+msgid "Costume Fundus LLC"
+msgstr "Costume Fundus LLC"
+
+msgctxt "/txt_CostumesAndMakeup"
+msgid "Costumes & Makeup"
+msgstr "Костюмы и грим"
+
+msgctxt "/txt_Help_TransTower_1T"
+msgid "Coverage"
+msgstr "Покрытие"
+
+msgctxt "/txt_CreativeProducer"
+msgid "Creative Producer"
+msgstr "Креативный продюсер"
+
+msgctxt "/txt_CreditLimit"
+msgid "Credit limit"
+msgstr "Лимит кредита"
+
+msgctxt "/txt_Credits"
+msgid "Credits"
+msgstr "Титры / Авторы"
+
+msgctxt "/txt_GenreCrime"
+msgid "Crime"
+msgstr "Криминал"
+
+msgctxt "/txt_TooltipBonusCult"
+msgid "Cult films increase the audience ratings for the next program."
+msgstr "Культовые фильмы повышают рейтинги следующей программы."
+
+msgctxt "/txt_Help_MovieMarketPremium_2T"
+msgid "Cult movie"
+msgstr "Культовое кино"
+
+msgctxt "/txt_Help_MovieMarketRent_2T"
+msgid "Cult movie"
+msgstr "Культовое кино"
+
+msgctxt "/txt_Help_MovieMarket_1T"
+msgid "Cult movie"
+msgstr "Культовое кино"
+
+msgctxt "/txt_Help_PiracyMarket_2T"
+msgid "Cult movie"
+msgstr "Культовое кино"
+
+msgctxt "/txt_Currency"
+msgid "Currency"
+msgstr "Валюта"
+
+msgctxt "/txt_Current"
+msgid "Current"
+msgstr "Текущий"
+
+msgctxt "/txt_CurrentFocus"
+msgid "Current focus"
+msgstr "Текущий фокус"
+
+msgctxt "/txt_CurrentLoan"
+msgid "Current loan amount"
+msgstr "Текущий долг"
+
+msgctxt "/txt_CustomGame"
+msgid "Custom game"
+msgstr "Своя игра"
+
+msgctxt "/txt_TeamCutting_2"
+msgid "Cutline Productions Ltd."
+msgstr "Cutline Productions Ltd."
+
+msgctxt "/txt_DayShort"
+msgid "D."
+msgstr "Д."
+
+msgctxt "/txt_DailyShort"
+msgid "Daily"
+msgstr "Ежедневно"
+
+msgctxt "/txt_DailyInterestNUM"
+msgid "Daily interest ({NUM}%)"
+msgstr "Дневной процент ({NUM}%)"
+
+msgctxt "/txt_DailyLicenseFees"
+msgid "Daily license fees"
+msgstr "Лицензионные сборы (день)"
+
+msgctxt "/txt_Date"
+msgid "Date"
+msgstr "Дата"
+
+msgctxt "/txt_GenreDatingShow"
+msgid "Dating show"
+msgstr "Шоу свиданий"
+
+msgctxt "/txt_Day"
+msgid "Day"
+msgstr "День"
+
+msgctxt "/txt_Day-s"
+msgid "Day(s)"
+msgstr "День (дней)"
+
+msgctxt "/txt_Days"
+msgid "Days"
+msgstr "Дни"
+
+msgctxt "/txt_NextAward"
+msgid "Days until the next television awards"
+msgstr "Дней до телепремии"
+
+msgctxt "/txt_DefaultGame"
+msgid "Default game"
+msgstr "Обычная игра"
+
+msgctxt "/txt_DefaultSettings"
+msgid "Default settings"
+msgstr "Настройки по умолчанию"
+
+msgctxt "/txt_Help_Marketing_3T"
+msgid "Delay"
+msgstr "Задержка"
+
+msgctxt "/txt_Help_Satellite_3T"
+msgid "Delay"
+msgstr "Задержка"
+
+msgctxt "/txt_DeleteAlMessages"
+msgid "Delete all messages"
+msgstr "Удалить все сообщения"
+
+msgctxt "/txt_DeleteBroadcastSchedule"
+msgid "Delete entire broadcast schedule"
+msgstr "Очистить всю сетку вещания"
+
+msgctxt "/txt_DeleteItem"
+msgid "Delete item"
+msgstr "Удалить предмет"
+
+msgctxt "/txt_DeleteSavegame"
+msgid "Delete savegame"
+msgstr "Удалить сохранение"
+
+msgctxt "/txt_Denmark"
+msgid "Denmark"
+msgstr "Дания"
+
+msgctxt "/txt_Help_Advertise_1"
+msgid ""
+"Depending on the contract, you must broadcast a certain number of spots and "
+"reach the minimum audience size."
+msgstr ""
+"В зависимости от контракта, вы должны показать определенное число роликов и "
+"достичь минимального охвата."
+
+msgctxt "/txt_Description"
+msgid "Description"
+msgstr "Описание"
+
+msgctxt "/txt_NPC_Bank9"
+msgid "Did you know that my brother makes shoes out of concrete?"
+msgstr "Знали ли вы, что мой брат делает ботинки из бетона?"
+
+msgctxt "/txt_Difficulty"
+msgid "Difficulty"
+msgstr "Сложность"
+
+msgctxt "/txt_Director"
+msgid "Director"
+msgstr "Режиссер"
+
+msgctxt "/txt_DisableDailyLicenseFees"
+msgid "Disable daily license fees"
+msgstr "Отключить дневные сборы"
+
+msgctxt "/txt_DisablePorterNotes"
+msgid "Disable porter notes"
+msgstr "Отключить заметки швейцара"
+
+msgctxt "/txt_DisableSabotage"
+msgid "Disable sabotage"
+msgstr "Отключить саботаж"
+
+msgctxt "/txt_NoPerSpotMode"
+msgid "Disable “Reward per spot”"
+msgstr "Отключить «Награду за ролик»"
+
+msgctxt "/txt_DisposalCosts"
+msgid "Disposal costs"
+msgstr "Стоимость утилизации"
+
+msgctxt "/txt_DisposeItems"
+msgid "Dispose of items"
+msgstr "Утилизировать предметы"
+
+msgctxt "/txt_Help_Recycle_2"
+msgid "Disposing of a contract will still trigger the contractual penalty."
+msgstr "Утилизация контракта всё равно повлечет за собой выплату штрафа."
+
+msgctxt "/txt_NPC_Recycle8"
+msgid "Disposing of all that trash will cost you something..."
+msgstr "Утилизация всего этого мусора влетит в копеечку..."
+
+msgctxt "/txt_NPC_Recycle9"
+msgid "Do you have something to throw away?"
+msgstr "Хотите что-то выбросить?"
+
+msgctxt "/txt_NPC_PiracyMarket7"
+msgid "Do you just want to browse or are you looking to buy something?"
+msgstr "Вы просто смотрите или хотите что-то купить?"
+
+msgctxt "/txt_HelloProgramChef2"
+msgid "Do you know which office Betty is in?"
+msgstr "Вы не знаете, в каком кабинете Бетти?"
+
+msgctxt "/txt_NPC_Licences1"
+msgid "Do you need a license for your TV channel?"
+msgstr "Вам нужна лицензия для телеканала?"
+
+msgctxt "/txt_MB_BuyLicence"
+msgid "Do you really want to acquire this license?"
+msgstr "Вы действительно хотите купить эту лицензию?"
+
+msgctxt "/txt_MB_BuyBroadcastTower"
+msgid "Do you really want to buy this broadcast tower?"
+msgstr "Вы действительно хотите купить эту телевышку?"
+
+msgctxt "/txt_MB_BuyUpdate"
+msgid "Do you really want to buy this update?"
+msgstr "Вы действительно хотите купить это улучшение?"
+
+msgctxt "/txt_MB_SatelliteCancel"
+msgid "Do you really want to cancel the contract for this satellite?"
+msgstr "Вы действительно хотите отменить аренду этого спутника?"
+
+msgctxt "/txt_MB_DeleteSavegame"
+msgid "Do you really want to delete the savegame?"
+msgstr "Вы действительно хотите удалить это сохранение?"
+
+msgctxt "/txt_MB_LeaveGame"
+msgid "Do you really want to leave the game?"
+msgstr "Вы действительно хотите выйти из игры?"
+
+msgctxt "/txt_MB_OverwriteSavegame"
+msgid "Do you really want to overwrite the savegame?"
+msgstr "Перезаписать сохранение?"
+
+msgctxt "/txt_MB_BackToMainMenu"
+msgid "Do you really want to quit the game and go back to the main menu?"
+msgstr "Выйти в главное меню?"
+
+msgctxt "/txt_MB_SellBroadcastTower"
+msgid "Do you really want to sell this broadcast tower?"
+msgstr "Вы действительно хотите продать эту телевышку?"
+
+msgctxt "/txt_MB_StopFilmProduction"
+msgid "Do you really want to stop the current film production?"
+msgstr "Прервать производство текущего фильма?"
+
+msgctxt "/txt_MB_StopMarketing"
+msgid "Do you really want to stop the marketing campaign?"
+msgstr "Остановить маркетинговую кампанию?"
+
+msgctxt "/txt_MB_transferMoneyReally"
+msgid "Do you really want to transfer the money?"
+msgstr "Вы действительно хотите перевести деньги?"
+
+msgctxt "/txt_NPC_SpaceAgency3"
+msgid "Do you want satellite capacity? Which package would you like?"
+msgstr "Нужны мощности спутника? Какой пакет выберете?"
+
+msgctxt "/txt_NPC_MovieMarket2"
+msgid "Do you want to buy a movie or just rent it?"
+msgstr "Хотите купить фильм или просто арендовать?"
+
+msgctxt "/txt_NPC_Recycle7"
+msgid "Do you want to get rid of an unwanted contract?"
+msgstr "Хотите избавиться от ненужного контракта?"
+
+msgctxt "/txt_NPC_SpaceAgency8"
+msgid ""
+"Do you want your TV channel to be available everywhere? Then you've come to "
+"the right place!"
+msgstr "Хотите вещать повсюду? Вы обратились по адресу!"
+
+msgctxt "/txt_NPC_ShowsMarket3"
+msgid "Do you watch reality TV shows in secret?"
+msgstr "Вы тайно смотрите реалити-шоу?"
+
+msgctxt "/txt_Focus_7"
+msgid "Documentary"
+msgstr "Документалистика"
+
+msgctxt "/txt_GenreDocumentation"
+msgid "Documentation"
+msgstr "Документальный фильм"
+
+msgctxt "/txt_Currency_0"
+msgid "Dollar"
+msgstr "Доллар"
+
+msgctxt "/txt_Domestic"
+msgid "Domestic"
+msgstr "Внутренние (новости)"
+
+msgctxt "/txt_NPC_AdvertiseMarket1"
+msgid "Don't sign a contract without reading the fine print."
+msgstr "Не подписывайте контракт, не прочитав мелкий шрифт."
+
+msgctxt "/txt_NPC_SpaceAgency2"
+msgid ""
+"Don't worry, our satellites rarely crash. And when they do, they do so in "
+"style."
+msgstr ""
+"Не волнуйтесь, наши спутники редко падают. А если и падают, то красиво."
+
+msgctxt "/txt_NPC_SpaceAgency4"
+msgid "Don't worry, your signals are safe with us..."
+msgstr "Не беспокойтесь, ваши сигналы у нас в безопасности..."
+
+msgctxt "/txt_DoormanShort"
+msgid "Doorman"
+msgstr "Швейцар"
+
+msgctxt "/txt_SoundDoors"
+msgid "Doors"
+msgstr "Двери"
+
+msgctxt "/txt_Focus_4"
+msgid "Drama"
+msgstr "Драма"
+
+msgctxt "/txt_GenreDrama"
+msgid "Drama"
+msgstr "Драма"
+
+msgctxt "/txt_DropAndPickUp"
+msgid "Drop & pick up item"
+msgstr "Бросить / Взять предмет"
+
+msgctxt "/txt_DaysShort"
+msgid "Ds."
+msgstr "дн."
+
+msgctxt "/txt_Tooltip_RandomEvent_13"
+msgid ""
+"Due to a nationwide consumer crisis, pay-per-view rates for teleshopping are "
+"falling by <Bold>50%</>."
+msgstr ""
+"Из-за общенационального потребительского кризиса выплаты за просмотры "
+"телемагазинов упали на <Bold>50%</>."
+
+msgctxt "/txt_Tooltip_RandomEvent_12"
+msgid ""
+"Due to a nationwide surge in consumer spending, pay for teleshopping is "
+"rising by <Bold>50%</>."
+msgstr ""
+"Из-за резкого роста потребительских расходов выплаты за телемагазины выросли "
+"на <Bold>50%</>."
+
+msgctxt "/txt_Tooltip_RandomEvent_8"
+msgid ""
+"Due to the current shortage of skilled tradespeople, the costs of upgrading "
+"the rooms have increased by <Bold>100%</>."
+msgstr ""
+"Из-за нехватки квалифицированных рабочих стоимость улучшения комнат выросла "
+"на <Bold>100%</>."
+
+msgctxt "/txt_DynamicTooltips"
+msgid "Dynamic Tooltips"
+msgstr "Динамические подсказки"
+
+msgctxt "/txt_FocusShow_5"
+msgid "Dynamics"
+msgstr "Динамика"
+
+msgctxt "/txt_Help_TransTower_2"
+msgid ""
+"Each broadcast tower incurs maintenance costs, which are deducted from your "
+"account daily."
+msgstr ""
+"Каждая телевышка требует расходов на обслуживание, которые списываются "
+"ежедневно."
+
+msgctxt "/txt_Easy"
+msgid "Easy"
+msgstr "Легко"
+
+msgctxt "/txt_GenreEducation"
+msgid "Education"
+msgstr "Образование"
+
+msgctxt "/txt_Help_Satellite_2T"
+msgid "Effectiveness of satellites"
+msgstr "Эффективность спутников"
+
+msgctxt "/txt_Egypt"
+msgid "Egypt"
+msgstr "Египет"
+
+msgctxt "/txt_FocusShow_2"
+msgid "Emotionality"
+msgstr "Эмоциональность"
+
+msgctxt "/txt_EmptySlot"
+msgid "Empty Slot"
+msgstr "Пустой слот"
+
+msgctxt "/txt_Help_Advertise_4T"
+msgid "End of contract"
+msgstr "Завершение контракта"
+
+msgctxt "/txt_Help_Teleshop_5T"
+msgid "End of contract"
+msgstr "Завершение контракта"
+
+msgctxt "/txt_EndTimeBroadcast"
+msgid "End time of the broadcast schedule"
+msgstr "Время окончания эфира"
+
+msgctxt "/txt_EndlessGame"
+msgid "Endless game"
+msgstr "Бесконечная игра"
+
+msgctxt "/txt_English"
+msgid "English"
+msgstr "Английский"
+
+msgctxt "/txt_Language_English"
+msgid "English"
+msgstr "English"
+
+msgctxt "/txt_reception4"
+msgid "Enjoy your work!"
+msgstr "Приятной работы!"
+
+msgctxt "/txt_Entertainment"
+msgid "Entertainment"
+msgstr "Развлечения"
+
+msgctxt "/txt_Epic"
+msgid "Epic"
+msgstr "Эпик"
+
+msgctxt "/txt_Episoden"
+msgid "Episodes"
+msgstr "Эпизоды"
+
+msgctxt "/txt_Focus_6"
+msgid "Eroticism"
+msgstr "Эротика"
+
+msgctxt "/txt_Level_6"
+msgid "Established Private Broadcaster"
+msgstr "Крупный частный вещатель"
+
+msgctxt "/txt_Interest"
+msgid "Estimated audience ratings"
+msgstr "Ожидаемый рейтинг"
+
+msgctxt "/txt_Currency_1"
+msgid "Euro"
+msgstr "Евро"
+
+msgctxt "/txt_Europe"
+msgid "Europe"
+msgstr "Европа"
+
+msgctxt "/txt_SatelliteName1"
+msgid "Eurosat"
+msgstr "Eurosat"
+
+msgctxt "/txt_NPC_PressAgency3"
+msgid "Even if some news stories seem unbelievable, they are all true."
+msgstr "Даже если новости кажутся невероятными, они правдивы."
+
+msgctxt "/txt_NPC_SpaceAgency9"
+msgid "Even if you book the capacity today, I cannot give you a discount."
+msgstr "Даже если вы забронируете мощности сегодня, скидки не будет.\""
+
+msgctxt "/txt_NPC_MovieMarket4"
+msgid "Even older films can still attract a few viewers to the TV."
+msgstr "Даже старые фильмы всё еще могут привлечь зрителей к экрану."
+
+msgctxt "/txt_Help_Evergreen_Title"
+msgid "Evergreen"
+msgstr "Классика (Evergreen)"
+
+msgctxt "/txt_Help_Advertise_3"
+msgid ""
+"Every advertising contract has a time limit within which all commercials "
+"must be broadcast. Once the time is up, the contract expires and you have to "
+"pay a penalty."
+msgstr ""
+"У каждого рекламного контракта есть срок действия. Если вы не успеете "
+"показать все ролики вовремя, контракт истечет и вам придется заплатить штраф."
+
+msgctxt "/txt_NPC_Licences8"
+msgid "Every big ratings success starts here - with the right license."
+msgstr "Любой большой успех начинается здесь — с правильной лицензии."
+
+msgctxt "/txt_Help_JobMarket_0"
+msgid "Every day, different people become available on the job market."
+msgstr "Каждый день на рынке труда появляются новые кандидаты."
+
+msgctxt "/txt_NPC_Sendeturm7"
+msgid ""
+"Every year, a tower stair run takes place in one of our transmission towers."
+msgstr "Каждый год мы проводим забег по лестницам на одной из наших вышек."
+
+msgctxt "/txt_Help_MovieMarketPremium_4T"
+msgid "Exclusivity"
+msgstr "Эксклюзивность"
+
+msgctxt "/txt_Help_MovieMarketRent_4T"
+msgid "Exclusivity"
+msgstr "Эксклюзивность"
+
+msgctxt "/txt_Help_MovieMarket_3T"
+msgid "Exclusivity"
+msgstr "Эксклюзивность"
+
+msgctxt "/txt_Help_ShowMarket_3T"
+msgid "Exclusivity"
+msgstr "Эксклюзивность"
+
+msgctxt "/txt_Expenditures"
+msgid "Expenditures"
+msgstr "Расходы"
+
+msgctxt "/txt_Rarity_4"
+msgid "Extremely Rare"
+msgstr "Экстремально редкий"
+
+msgctxt "/txt_Failed"
+msgid "Failed"
+msgstr "Провалено"
+
+msgctxt "/txt_FairyLights"
+msgid "Fairy lights"
+msgstr "Гирлянды"
+
+msgctxt "/txt_GenreFamily"
+msgid "Family"
+msgstr "Семейный"
+
+msgctxt "/txt_FocusShow_7"
+msgid "Family-friendliness"
+msgstr "Для всей семьи"
+
+msgctxt "/txt_GenreFantasy"
+msgid "Fantasy"
+msgstr "Фэнтези"
+
+msgctxt "/tst_Fast"
+msgid "Fast"
+msgstr "Быстро"
+
+msgctxt "/txt_NPC_MovieMarket10"
+msgid "Feel free to look around. My VHS collection is award-worthy."
+msgstr "Осмотритесь. Моя коллекция VHS достойна награды."
+
+msgctxt "/txt_FilmEditing"
+msgid "Film editing"
+msgstr "Монтаж"
+
+msgctxt "/txt_FilmStudio"
+msgid "Film studio"
+msgstr "Киностудия"
+
+msgctxt "/txt_Tooltip_RandomEvent_1"
+msgid ""
+"Film studios are complaining about rising costs in Hollywood. As a result, "
+"prices for films and series are increasing by <Bold>100%</>."
+msgstr ""
+"Киностудии жалуются на рост расходов в Голливуде. В результате цены на "
+"фильмы и сериалы выросли на <Bold>100%</>."
+
+msgctxt "/txt_FilmType"
+msgid "Film type"
+msgstr "Тип фильма"
+
+msgctxt "/txt_FilmingCompleted"
+msgid "Filming completed"
+msgstr "Съемки завершены"
+
+msgctxt "/txt_Filter"
+msgid "Filter"
+msgstr "Фильтр"
+
+msgctxt "/txt_Filters"
+msgid "Filters"
+msgstr "Фильтры"
+
+msgctxt "/txt_TeamPostPro_2"
+msgid "Final Cut Productions"
+msgstr "Final Cut Productions"
+
+msgctxt "/txt_Tutorial28_L"
+msgid ""
+"Finally, we should add your advertising to the broadcast schedule. To do so, "
+"return to your office."
+msgstr "Наконец, добавим рекламу в сетку вещания. Для этого вернитесь в офис."
+
+msgctxt "/txt_Tutorial17_L"
+msgid ""
+"Finally, you should acquire a story for your news program. Leave the room "
+"and head to the press agency."
+msgstr ""
+"И последнее: вам нужен сюжет для новостей. Выходите и идите в агентство "
+"новостей."
+
+msgctxt "/txt_Finances"
+msgid "Finances"
+msgstr "Финансы"
+
+msgctxt "/txt_FinancialHistory"
+msgid "Financial history"
+msgstr "История операций"
+
+msgctxt "/txt_TeamPostPro_1"
+msgid "Fine Tuning Limited"
+msgstr "Fine Tuning Limited"
+
+msgctxt "/txt_TeamStunt_1"
+msgid "Fire & Action Concepts Ltd.."
+msgstr "Fire & Action Concepts Ltd."
+
+msgctxt "/txt_Flyers"
+msgid "Flyers"
+msgstr "Флаеры"
+
+msgctxt "/txt_Hoverboard"
+msgid "Flying skateboard"
+msgstr "Летающий скейт"
+
+msgctxt "/txt_Focus"
+msgid "Focus"
+msgstr "Фокус"
+
+msgctxt "/txt_FocusOfTvChannel"
+msgid "Focus of the TV channel"
+msgstr "Направленность канала"
+
+msgctxt "/txt_FocusPoints"
+msgid "Focus points"
+msgstr "Очки фокуса"
+
+msgctxt "/txt_Help_LiveMarket_1"
+msgid "Following programs receive a viewership bonus."
+msgstr "Следующие программы получат бонус к просмотрам."
+
+msgctxt "/txt_Help_MovieAward_1"
+msgid ""
+"For each category you win, you'll receive a 3% bonus on your viewership "
+"until the next awards ceremony."
+msgstr ""
+"За каждую победу в номинации вы получите +3% к просмотрам до следующей "
+"церемонии."
+
+msgctxt "/txt_NPC_PiracyMarket6"
+msgid ""
+"For legal reasons, I must inform you that the possession of pirated copies "
+"is illegal."
+msgstr ""
+"По закону я обязан предупредить, что хранение пиратских копий незаконно."
+
+msgctxt "/txt_reception3"
+msgid "Fortunately, today is not the weekend."
+msgstr "К счастью, сегодня не выходной."
+
+msgctxt "/txt_MaxFramerate"
+msgid "Frame Rate Limit"
+msgstr "Лимит кадров"
+
+msgctxt "/txt_TeamPostPro_3"
+msgid "FrameFinish Studios Inc."
+msgstr "FrameFinish Studios Inc."
+
+msgctxt "/txt_TeamCutting_3"
+msgid "Framecut Studios"
+msgstr "Framecut Studios"
+
+msgctxt "/txt_France"
+msgid "France"
+msgstr "Франция"
+
+msgctxt "/txt_FridayShort"
+msgid "Fri."
+msgstr "Пт."
+
+msgctxt "/txt_Friday"
+msgid "Friday"
+msgstr "Пятница"
+
+msgctxt "/txt_FromXpm"
+msgid "From {NUM}:00"
+msgstr "С {NUM}:00"
+
+msgctxt "/txt_Fullength"
+msgid "Full-length"
+msgstr "Полнометражный"
+
+msgctxt "/txt_Fullscreen"
+msgid "Fullscreen"
+msgstr "Полный экран"
+
+msgctxt "/txt_FullscreenMode"
+msgid "Fullscreen Mode"
+msgstr "Режим экрана"
+
+msgctxt "/txt_Game"
+msgid "Game"
+msgstr "Игра"
+
+msgctxt "/txt_GameOver"
+msgid "Game Over"
+msgstr "Игра окончена"
+
+msgctxt "/txt_GameSettings"
+msgid "Game settings"
+msgstr "Настройки игры"
+
+msgctxt "/txt_GenreGameShow"
+msgid "Game show"
+msgstr "Игровое шоу"
+
+msgctxt "/txt_Gameplay"
+msgid "Gameplay"
+msgstr "Геймплей"
+
+msgctxt "/txt_Gamma"
+msgid "Gamma"
+msgstr "Гамма"
+
+msgctxt "/txt_Level_2"
+msgid "Garage Channel"
+msgstr "Гаражный канал"
+
+msgctxt "/txt_Gender"
+msgid "Gender"
+msgstr "Пол"
+
+msgctxt "/txt_Genre"
+msgid "Genre"
+msgstr "Жанр"
+
+msgctxt "/txt_Doorman"
+msgid "George the doorman"
+msgstr "Швейцар Джордж"
+
+msgctxt "/txt_German"
+msgid "German"
+msgstr "Немецкий"
+
+msgctxt "/txt_Language_German"
+msgid "German"
+msgstr "Deutsch"
+
+msgctxt "/txt_Currency_3"
+msgid "German Mark"
+msgstr "Немецкая марка"
+
+msgctxt "/txt_Germany"
+msgid "Germany"
+msgstr "Германия"
+
+msgctxt "/txt_NPC_WC10"
+msgid "Give me a second!"
+msgstr "Дайте мне секунду!"
+
+msgctxt "/txt_Level_10"
+msgid "Global Broadcasting Giant"
+msgstr "Мировой медиагигант"
+
+msgctxt "/txt_Illumination"
+msgid "Global Illumination"
+msgstr "Глобальное освещение"
+
+msgctxt "/txt_VolumeGlobal"
+msgid "Global volume"
+msgstr "Общая громкость"
+
+msgctxt "/txt_NPC_WC6"
+msgid "Go away!"
+msgstr "Уходите!"
+
+msgctxt "/txt_Tutorial22_L"
+msgid "Go to your newsroom and submit the story."
+msgstr "Идите в отдел новостей и отправьте сюжет в эфир."
+
+msgctxt "/txt_TeamCutting_4"
+msgid "Golden Cut Inc."
+msgstr "Golden Cut Inc."
+
+msgctxt "/txt_TeamCamera_4"
+msgid "Golden Lens Inc."
+msgstr "Golden Lens Inc."
+
+msgctxt "/txt_NPC_AdvertiseMarket8"
+msgid "Grab the best advertising contract before someone else does..."
+msgstr "Хватайте лучший контракт, пока его не увел кто-то другой..."
+
+msgctxt "/txt_TeamSetContruct_4"
+msgid "Grand Set Productions Ltd."
+msgstr "Grand Set Productions Ltd."
+
+msgctxt "/txt_Graphic"
+msgid "Graphic"
+msgstr "Графика"
+
+msgctxt "/txt_GraphicQuality"
+msgid "Graphic quality"
+msgstr "Качество графики"
+
+msgctxt "/txt_Greece"
+msgid "Greece"
+msgstr "Греция"
+
+msgctxt "/txt_DefaultChannelName_1"
+msgid "Green Channel"
+msgstr "Зеленый канал"
+
+msgctxt "/txt_TeamCostume_3"
+msgid "Gremlins & Goblins Studios"
+msgstr "Gremlins & Goblins Studios"
+
+msgctxt "/txt_NPC_Bank4"
+msgid "Hands off my safe!"
+msgstr "Руки прочь от моего сейфа!"
+
+msgctxt "/txt_Hard"
+msgid "Hard"
+msgstr "Сложно"
+
+msgctxt "/txt_LevelUp"
+msgid "Has leveled up"
+msgstr "Уровень повышен"
+
+msgctxt "/txt_NPC_Bank1"
+msgid "Have you run out of money again?"
+msgstr "У вас опять закончились деньги?"
+
+msgctxt "/txt_HelloProgramChef1"
+msgid "Have you seen Betty?"
+msgstr "Вы видели Бетти?"
+
+msgctxt "/txt_Hello1"
+msgid "Hello!"
+msgstr "Здравствуйте!"
+
+msgctxt "/txt_Help"
+msgid "Help"
+msgstr "Помощь"
+
+msgctxt "/txt_Help_ShowMarket_0"
+msgid ""
+"Here you can acquire shows from independent studios. A show can achieve good "
+"ratings but cannot be resold."
+msgstr ""
+"Здесь вы можете приобрести шоу у независимых студий. Шоу приносят хороший "
+"рейтинг, но их нельзя перепродать."
+
+msgctxt "/txt_Help_News0"
+msgid ""
+"Here you can assign previously purchased stories to your news program. "
+"Current news stories can be bought from the press agency."
+msgstr ""
+"Здесь можно включить купленные сюжеты в новости. Сами сюжеты покупаются в "
+"агентстве новостей."
+
+msgctxt "/txt_Help_TransTower_0"
+msgid ""
+"Here you can buy and sell broadcast towers. Broadcast towers are essential "
+"for increasing your coverage area and, in turn, your audience ratings."
+msgstr ""
+"Здесь можно покупать и продавать телевышки. Они необходимы для расширения "
+"зоны покрытия и роста рейтингов."
+
+msgctxt "/txt_Help_PiracyMarket_0"
+msgid ""
+"Here you can buy pirated copies of movies. Pirated copies are cheaper than "
+"movies on the regular market. However, owning pirated copies is illegal and "
+"may result in a penalty."
+msgstr ""
+"Здесь можно купить пиратские копии. Они дешевле лицензионных, но их хранение "
+"незаконно и чревато штрафами."
+
+msgctxt "/txt_Help_Marketing_0"
+msgid ""
+"Here you can place ads for your TV station. This will have a positive impact "
+"on your ratings."
+msgstr ""
+"Здесь можно заказать рекламу вашего канала. Это положительно скажется на "
+"рейтингах."
+
+msgctxt "/txt_Help_LiveMarket_0"
+msgid ""
+"Here you can purchase live events. Live events are very expensive, but "
+"usually have a very high audience rating."
+msgstr ""
+"Здесь покупаются права на прямые эфиры. Это дорого, но дает огромный рейтинг."
+
+msgctxt "/txt_Help_MovieMarketRent_0"
+msgid ""
+"Here you can rent movies for broadcast. Renting a movie is significantly "
+"cheaper than buying one."
+msgstr "Здесь можно арендовать фильмы. Аренда значительно дешевле покупки."
+
+msgctxt "/txt_Help_Satellite0"
+msgid ""
+"Here you can rent satellite capacity to increase your audience reach for a "
+"limited period of time."
+msgstr "Здесь можно арендовать спутник для временного увеличения охвата."
+
+msgctxt "/txt_Help_Advertise_0"
+msgid ""
+"Here you can sign advertising contracts. Commercials are the main source of "
+"income for your TV channel."
+msgstr ""
+"Здесь подписываются рекламные контракты — ваш основной источник дохода."
+
+msgctxt "/txt_Help_Teleshop_0"
+msgid ""
+"Here you can sign broadcasting contracts for teleshopping shows. This is a "
+"good way to continue earning money during low-viewership time slots."
+msgstr ""
+"Здесь подписываются контракты на телемагазины. Это хороший способ заработать "
+"в часы низких рейтингов."
+
+msgctxt "/txt_Hello3"
+msgid "Hey there!"
+msgstr "Всем привет!"
+
+msgctxt "/txt_Hello4"
+msgid "Hey!"
+msgstr "Эй!"
+
+msgctxt "/txt_NPC_Recycle6"
+msgid "Hey! No plastic in the compost bin!"
+msgstr "Эй! Пластик нельзя в компост!"
+
+msgctxt "/txt_Hello5"
+msgid "Hi there!"
+msgstr "Привет!"
+
+msgctxt "/txt_Hello2"
+msgid "Hi!"
+msgstr "Салют!"
+
+msgctxt "/txt_HideEmptySlots"
+msgid "Hide empty save game slots"
+msgstr "Скрыть пустые слоты сохранений"
+
+msgctxt "/txt_High"
+msgid "High"
+msgstr "Высоко"
+
+msgctxt "/txt_Help_LiveMarket_2T"
+msgid "High television ratings"
+msgstr "Высокие телерейтинги"
+
+msgctxt "/txt_Help_ShowMarket_1T"
+msgid "High television ratings"
+msgstr "Высокие телерейтинги"
+
+msgctxt "/txt_HighestAccountBalance"
+msgid "Highest account balance"
+msgstr "Максимальный баланс"
+
+msgctxt "/txt_AwardB"
+msgid "Highest audience rating"
+msgstr "Самый высокий рейтинг"
+
+msgctxt "/txt_GameSpeedX3"
+msgid "Highest game speed"
+msgstr "Макс. скорость игры"
+
+msgctxt "/txt_HongKong"
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+msgctxt "/txt_Focus_3"
+msgid "Horror"
+msgstr "Ужасы"
+
+msgctxt "/txt_GenreHorror"
+msgid "Horror"
+msgstr "Ужасы"
+
+msgctxt "/txt_HostGame"
+msgid "Host game"
+msgstr "Создать игру"
+
+msgctxt "/txt_HostsPresenters"
+msgid "Hosts"
+msgstr "Ведущие"
+
+msgctxt "/txt_Hours"
+msgid "Hours"
+msgstr "Часы"
+
+msgctxt "/txt_NPC_ShowsMarket4"
+msgid "How does the saying go? The show must go on..."
+msgstr "Как там поется? Шоу должно продолжаться..."
+
+msgctxt "/txt_TransferMoneyAmount"
+msgid "How much money would you like to transfer?"
+msgstr "Какую сумму вы хотите перевести?"
+
+msgctxt "/txt_ProductionSize_3"
+msgid "Huge production"
+msgstr "Колоссальный проект"
+
+msgctxt "/txt_Update_Filmstudio3"
+msgid "Huge production"
+msgstr "Колоссальное производство"
+
+msgctxt "/txt_FocusShow_3"
+msgid "Humour"
+msgstr "Юмор"
+
+msgctxt "/txt_Focus_1"
+msgid "Humour"
+msgstr "Юмор"
+
+msgctxt "/txt_reception8"
+msgid "Hurry up! Time is running out!"
+msgstr "Поспешите! Время уходит!"
+
+msgctxt "/txt_NPC_Bank3"
+msgid "I advise you not to waste my money!"
+msgstr "Советую не тратить мои деньги впустую!"
+
+msgctxt "/txt_DoormanSilent"
+msgid "I am silent as the grave."
+msgstr "Я нем как могила."
+
+msgctxt "/txt_NPC_PiracyMarket1"
+msgid "I assure you that I have only made backup copies."
+msgstr "Уверяю вас, я делал только резервные копии."
+
+msgctxt "/txt_NPC_Live2"
+msgid "I broker broadcasting rights for all types of live broadcasts."
+msgstr "Я посредник по правам на любые прямые трансляции."
+
+msgctxt "/txt_NPC_SpaceAgency7"
+msgid "I can guarantee you a stable connection..."
+msgstr "Я гарантирую стабильное соединение..."
+
+msgctxt "/txt_HelloProgramChef3"
+msgid "I can't find Betty!"
+msgstr "Я не могу найти Бетти!"
+
+msgctxt "/txt_reception7"
+msgid "I envy you for your job!"
+msgstr "Я завидую вашей работе!"
+
+msgctxt "/txt_NPC_MovieMarket6"
+msgid "I get new movies and series delivered every day."
+msgstr "Мне каждый день привозят новые фильмы и сериалы."
+
+msgctxt "/txt_NPC_MovieMarket1"
+msgid "I have new VHS tapes in stock!"
+msgstr "У меня новые кассеты на складе!"
+
+msgctxt "/txt_reception9"
+msgid "I hope you all make good choices when selecting your programs."
+msgstr "Надеюсь, вы подберете отличные программы."
+
+msgctxt "/txt_NPC_Recycle5"
+msgid "I only accept separated waste!"
+msgstr "Я принимаю только раздельный мусор!"
+
+msgctxt "/txt_NPC_MovieMarket9"
+msgid ""
+"I only have movies and TV series. If you want something else, you've come to "
+"the wrong place!"
+msgstr ""
+"У меня только фильмы и сериалы. Если нужно что-то другое — вы ошиблись "
+"дверью!"
+
+msgctxt "/txt_NPC_Marketing1"
+msgid "I recommend that you put up a few posters."
+msgstr "Рекомендую расклеить пару плакатов."
+
+msgctxt "/txt_NPC_Bank10"
+msgid "I think you still owe me money!"
+msgstr "Кажется, вы мне всё еще должны!"
+
+msgctxt "/txt_NPC_Live6"
+msgid "I watched the moon landing live on TV back then. Unbelievable!"
+msgstr "Я смотрел высадку на Луну в прямом эфире. Невероятно!"
+
+msgctxt "/txt_reception6"
+msgid "I wish you all a stress-free working day."
+msgstr "Желаю всем рабочего дня без стресса."
+
+msgctxt "/txt_reception1"
+msgid "I wish you all a successful working day."
+msgstr "Желаю всем успешного рабочего дня."
+
+msgctxt "/txt_TooltipMalusUnhappy"
+msgid "If no TV program is broadcast, viewers get angry."
+msgstr "Если в эфире ничего нет, зрители злятся."
+
+msgctxt "/txt_NPC_PressAgency8"
+msgid ""
+"If you are looking for trustworthy and verified news, you have come to the "
+"right place."
+msgstr "Если вы ищете проверенные новости — вы пришли по адресу."
+
+msgctxt "/txt_Help_Schedule_5"
+msgid ""
+"If you don’t broadcast any program, your viewers will become dissatisfied."
+msgstr "Отсутствие программы в эфире вызывает недовольство зрителей."
+
+msgctxt "/txt_NPC_PiracyMarket9"
+msgid "If you get caught, I never met you!"
+msgstr "Если поймают — я вас не видел!"
+
+msgctxt "/txt_Help_Satellite_2"
+msgid ""
+"If you have covered part of the transmission area with transmission towers, "
+"the effective range of the satellites decreases."
+msgstr ""
+"Если часть зоны уже покрыта телевышками, эффективность спутников снижается."
+
+msgctxt "/txt_NPC_PiracyMarket3"
+msgid "If you see a detective, quickly get rid of all your pirated copies!"
+msgstr "Если увидите детектива — скорее избавляйтесь от пиратских кассет!"
+
+msgctxt "/txt_Help_FilmstudioSelect_0"
+msgid ""
+"If you're producing a new season or a sequel, the cast will remain the same."
+msgstr "При создании нового сезона или сиквела актерский состав сохраняется."
+
+msgctxt "/txt_NPC_AdvertiseMarket5"
+msgid "If you're satisfied, just sign here..."
+msgstr "Если вас всё устраивает, подпишите здесь..."
+
+msgctxt "/txt_Tooltip_Bankruptcy"
+msgid ""
+"If your account balance is negative for three days in a row, you lose the "
+"game."
+msgstr "Если баланс будет отрицательным три дня подряд, вы проиграете."
+
+msgctxt "/txt_Tutorial8_L"
+msgid ""
+"If you’re impatient, you can speed up time. Use the highlighted controls in "
+"the bottom-right corner to change the game speed or pause the game."
+msgstr ""
+"Если не терпится, время можно ускорить. Используйте кнопки в нижнем правом "
+"углу, чтобы изменить скорость или поставить игру на паузу."
+
+msgctxt "/txt_TeamFX_4"
+msgid "Illusion Works Inc."
+msgstr "Illusion Works Inc."
+
+msgctxt "/txt_InBroadcastSchedule"
+msgid "In Broadcast schedule"
+msgstr "В сетке вещания"
+
+msgctxt "/txt_Tutorial14_L"
+msgid ""
+"In the meantime, you can turn on the TV to see what’s currently airing on "
+"all channels. Use the three buttons on the TV in the bottom-left corner to "
+"switch channels."
+msgstr ""
+"А пока можно включить телевизор и посмотреть, что идет на каналах. "
+"Используйте три кнопки на ТВ в нижнем левом углу для переключения."
+
+msgctxt "/txt_Help_MovieMarket_0"
+msgid ""
+"In the movie market, you can buy and sell movies and series. The premium "
+"section is reserved for selected titles."
+msgstr ""
+"На кинорынке можно покупать и продавать фильмы и сериалы. Премиум-секция "
+"предназначена для отборных хитов."
+
+msgctxt "/txt_Tutorial9_L"
+msgid ""
+"In the movie market, you can buy or rent movies. Rented movies must be "
+"returned after a single broadcast. The premium section is locked and "
+"requires a license to unlock."
+msgstr ""
+"На рынке можно купить или арендовать фильмы. Арендованные ленты возвращаются "
+"после первого показа. Премиум-секция требует лицензии."
+
+msgctxt "/txt_Help_OwnProductionTitle"
+msgid "In-house production"
+msgstr "Собственное производство"
+
+msgctxt "/txt_InHouseProduction"
+msgid "In-house production"
+msgstr "Собственное производство"
+
+msgctxt "/txt_Help_OwnProductionText"
+msgid ""
+"In-house productions cannot be sold. As soon as the programme is broadcast "
+"on TV for the first time, you can see its potential."
+msgstr ""
+"Собственную продукцию нельзя продать. Потенциал программы станет ясен после "
+"первого выхода в эфир."
+
+msgctxt "/txt_IncorrectPassword"
+msgid "Incorrect password!"
+msgstr "Неверный пароль!"
+
+msgctxt "/txt_IncreaseInCosts"
+msgid "Increase in costs"
+msgstr "Рост расходов"
+
+msgctxt "/txt_GameSpeedX2"
+msgid "Increased game speed"
+msgstr "Ускоренная игра"
+
+msgctxt "/txt_Help_MovieMarketPremium_2"
+msgid "Increases the ratings of the next program by 5%."
+msgstr "Повышает рейтинг следующей программы на 5%."
+
+msgctxt "/txt_Help_MovieMarketRent_2"
+msgid "Increases the ratings of the next program by 5%."
+msgstr "Повышает рейтинг следующей программы на 5%."
+
+msgctxt "/txt_Help_MovieMarket_1"
+msgid "Increases the ratings of the next program by 5%."
+msgstr "Повышает рейтинг следующей программы на 5%."
+
+msgctxt "/txt_Help_PiracyMarket_2"
+msgid "Increases the ratings of the next program by 5%."
+msgstr "Повышает рейтинг следующей программы на 5%."
+
+msgctxt "/txt_MiscDesc_0"
+msgid "Increases your ratings for some time."
+msgstr "Повышает ваши рейтинги на некоторое время."
+
+msgctxt "/txt_India"
+msgid "India"
+msgstr "Индия"
+
+msgctxt "/txt_GenreInfomercial"
+msgid "Infomercial"
+msgstr "Рекламный ролик"
+
+msgctxt "/txt_GenreInformation"
+msgid "Information"
+msgstr "Информационная передача"
+
+msgctxt "/txt_FocusShow_0"
+msgid "Informativeness"
+msgstr "Информативность"
+
+msgctxt "/txt_Help_Schedule_3"
+msgid ""
+"Instead of airing commercials, it can be worthwhile to broadcast a short "
+"program. This may increase viewership ratings or reduce audience saturation."
+msgstr ""
+"Вместо рекламы иногда полезно поставить короткую передачу. Это может поднять "
+"рейтинги или снизить пресыщение аудитории."
+
+msgctxt "/txt_SatelliteName3"
+msgid "Intelcom"
+msgstr "Intelcom"
+
+msgctxt "/txt_InterestMoney"
+msgid "Interest"
+msgstr "Проценты"
+
+msgctxt "/txt_InterestPayment"
+msgid "Interest payment"
+msgstr "Выплата процентов"
+
+msgctxt "/txt_International"
+msgid "International"
+msgstr "Международные (новости)"
+
+msgctxt "/txt_Level_9"
+msgid "International Broadcaster"
+msgstr "Международный вещатель"
+
+msgctxt "/txt_NPC_PressAgency9"
+msgid ""
+"International news, sports, or entertainment? We write about everything."
+msgstr "Мировые новости, спорт или развлечения? Мы пишем обо всём."
+
+msgctxt "/txt_reception10"
+msgid "Is my favorite movie on TV today?"
+msgstr "Сегодня покажут мой любимый фильм?"
+
+msgctxt "/txt_NPC_Recycle10"
+msgid "Is your storage space full?"
+msgstr "Склад переполнен?"
+
+msgctxt "/txt_Israel"
+msgid "Israel"
+msgstr "Израиль"
+
+msgctxt "/txt_Help_LiveMarket_4"
+msgid ""
+"It is not possible to resell live events. Once you have broadcast a live "
+"event, it will be automatically deleted."
+msgstr ""
+"Права на прямые трансляции нельзя перепродать. После эфира они удаляются."
+
+msgctxt "/txt_Help_PiracyMarket_6"
+msgid ""
+"It is not possible to resell pirated copies. If you want to get rid of a "
+"pirated copy, you must take it to waste disposal."
+msgstr ""
+"Пиратские копии нельзя перепродать. Избавиться от них можно только через "
+"утилизацию."
+
+msgctxt "/txt_Help_MovieMarketRent_1"
+msgid ""
+"It is not possible to sell rented movies. Once the movie has been broadcast, "
+"it disappears automatically."
+msgstr ""
+"Арендованные фильмы нельзя продать. После показа они автоматически исчезают."
+
+msgctxt "/txt_Help_Marketing_3"
+msgid "It will be a few hours before the marketing campaign launches."
+msgstr "До начала маркетинговой кампании осталось несколько часов."
+
+msgctxt "/txt_Help_Satellite_3"
+msgid "It will take a few hours for the satellites to start transmitting."
+msgstr "Спутникам понадобится несколько часов, чтобы начать передачу."
+
+msgctxt "/txt_Italy"
+msgid "Italy"
+msgstr "Италия"
+
+msgctxt "/txt_Items"
+msgid "Items"
+msgstr "Предметы"
+
+msgctxt "/txt_NPC_WC5"
+msgid "I’m almost done!"
+msgstr "Я почти всё!"
+
+msgctxt "/txt_Japan"
+msgid "Japan"
+msgstr "Япония"
+
+msgctxt "/txt_JobMarket"
+msgid "Job market"
+msgstr "Рынок труда"
+
+msgctxt "/txt_JoinGame"
+msgid "Join game"
+msgstr "Присоединиться к игре"
+
+msgctxt "/txt_NPC_WC3"
+msgid "Just a minute!"
+msgstr "Минутку!"
+
+msgctxt "/txt_NPC_SpaceAgency5"
+msgid ""
+"Just tell me one thing: Do you want nationwide coverage - or just to annoy "
+"your competitors?"
+msgstr ""
+"Скажите только одно: вам нужно покрытие на всю страну или просто хотите "
+"позлить конкурентов?"
+
+msgctxt "/txt_NPC_Sendeturm6"
+msgid ""
+"Keep in mind that every transmission tower generates daily maintenance costs."
+msgstr "Учтите, что каждая вышка требует ежедневных затрат на обслуживание."
+
+msgctxt "/txt_Lan"
+msgid "LAN"
+msgstr "LAN"
+
+msgctxt "/txt_Language"
+msgid "Language"
+msgstr "Язык"
+
+msgctxt "/txt_ProductionSIze_2"
+msgid "Large production"
+msgstr "Крупный проект"
+
+msgctxt "/txt_Update_Filmstudio2"
+msgid "Large-scale production"
+msgstr "Крупномасштабное производство"
+
+msgctxt "/txt_Last20days"
+msgid "Last 20 days"
+msgstr "Последние 20 дней"
+
+msgctxt "/txt_LaunchMarketing"
+msgid "Launch marketing campaign"
+msgstr "Запустить маркетинг"
+
+msgctxt "/txt_LeadRole"
+msgid "Lead Role"
+msgstr "Главная роль"
+
+msgctxt "/txt_LeaveGame"
+msgid "Leave game"
+msgstr "Выйти из игры"
+
+msgctxt "/txt_LeaveRoom"
+msgid "Leave room"
+msgstr "Выйти из комнаты"
+
+msgctxt "/txt_Rarity_5"
+msgid "Legendary"
+msgstr "Легендарный"
+
+msgctxt "/txt_LendingRates"
+msgid "Lending rates"
+msgstr "Кредитные ставки"
+
+msgctxt "/txt_Help_LiveMarket_5T"
+msgid "Level"
+msgstr "Уровень"
+
+msgctxt "/txt_Help_TransTower_3T"
+msgid "Level"
+msgstr "Уровень"
+
+msgctxt "/txt_Level"
+msgid "Level"
+msgstr "Уровень"
+
+msgctxt "/txt_LevelUpShort"
+msgid "Level Up"
+msgstr "Уровень повышен"
+
+msgctxt "/txt_Help_NewsMarket_4T"
+msgid "Licenses"
+msgstr "Лицензии"
+
+msgctxt "/txt_Licenses"
+msgid "Licenses"
+msgstr "Лицензии"
+
+msgctxt "/txt_Lifetime"
+msgid "Lifetime"
+msgstr "За всё время"
+
+msgctxt "/txt_Lift"
+msgid "Lift"
+msgstr "Лифт"
+
+msgctxt "/txt_SoundLift"
+msgid "Lift"
+msgstr "Лифт"
+
+msgctxt "/txt_Help_Satellite_1T"
+msgid "Limited range"
+msgstr "Ограниченный охват"
+
+msgctxt "/txt_Live"
+msgid "Live"
+msgstr "Прямой эфир"
+
+msgctxt "/txt_LiveEvent"
+msgid "Live Event"
+msgstr "Прямая трансляция"
+
+msgctxt "/txt_LiveEvents"
+msgid "Live Events"
+msgstr "Прямые эфиры"
+
+msgctxt "/txt_NewsCredits"
+msgid "Live broadcast by the TV station"
+msgstr "Прямое включение"
+
+msgctxt "/txt_LiveEventMarket"
+msgid "Live event market"
+msgstr "Рынок прямых трансляций"
+
+msgctxt "/txt_NPC_Live3"
+msgid "Live events are indispensable for major TV stations!"
+msgstr "Прямые трансляции незаменимы для крупных каналов!"
+
+msgctxt "/txt_NPC_Live7"
+msgid "Live events are rare, so don't think about it for too long!"
+msgstr "Прямые эфиры редки, так что не раздумывайте долго!"
+
+msgctxt "/txt_NPC_Live4"
+msgid "Live events get you the most viewers!"
+msgstr "Прямые трансляции дают больше всего зрителей!"
+
+msgctxt "/txt_Help_LiveMarket_3"
+msgid "Live events must be broadcast at a specified time."
+msgstr "Прямые эфиры должны идти строго в указанное время."
+
+msgctxt "/txt_Help_LiveMarket_2"
+msgid "Live events usually have very high ratings."
+msgstr "У прямых эфиров обычно заоблачные рейтинги."
+
+msgctxt "/txt_LoadGame"
+msgid "Load game"
+msgstr "Загрузить игру"
+
+msgctxt "/txt_Loading"
+msgid "Loading ..."
+msgstr "Загрузка..."
+
+msgctxt "/txt_LoanShark"
+msgid "Loan shark"
+msgstr "Ростовщик"
+
+msgctxt "/txt_Lobby"
+msgid "Lobby"
+msgstr "Лобби"
+
+msgctxt "/txt_Level_3"
+msgid "Local Cable Channel"
+msgstr "Местный кабельный канал"
+
+msgctxt "/txt_Location"
+msgid "Location"
+msgstr "Местоположение"
+
+msgctxt "/txt_Logo"
+msgid "Logo"
+msgstr "Логотип"
+
+msgctxt "/txt_LogoTvChannel"
+msgid "Logo of the TV channel"
+msgstr "Логотип телеканала"
+
+msgctxt "/txt_ReputationGainLoss"
+msgid "Loss / gain of reputation"
+msgstr "Изменение репутации"
+
+#, fuzzy
+msgctxt "/txt_Amount0"
+msgid "Low"
+msgstr "Низко"
+
+#, fuzzy
+msgctxt "/txt_Low"
+msgid "Low"
+msgstr "Низко"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_9"
+msgid "Low construction material costs"
+msgstr "Дешевые стройматериалы"
+
+msgctxt "/txt_LowestAccountBalance"
+msgid "Lowest account balance"
+msgstr "Минимальный баланс"
+
+msgctxt "/txt_Title"
+msgid "Mad Television Tycoon"
+msgstr "Mad Television Tycoon"
+
+msgctxt "/txt_Magazines"
+msgid "Magazines"
+msgstr "Журналы"
+
+msgctxt "/txt_MainPrograms"
+msgid "Main programs"
+msgstr "Основные программы"
+
+msgctxt "/txt_Help_TransTower_2T"
+msgid "Maintenance costs"
+msgstr "Стоимость обслуживания"
+
+msgctxt "/txt_MaintenanceTowers"
+msgid "Maintenance costs for broadcasting towers"
+msgstr "Обслуживание телевышек"
+
+msgctxt "/txt_Level_7"
+msgid "Major National Network"
+msgstr "Главная национальная сеть"
+
+msgctxt "/txt_Malaysia"
+msgid "Malaysia"
+msgstr "Малайзия"
+
+msgctxt "/txt_TooltipMalusLive"
+msgid "Malus in audience ratings for live events."
+msgstr "Штраф к рейтингу прямых эфиров."
+
+msgctxt "/txt_TooltipMalusMovies"
+msgid "Malus in audience ratings for movies."
+msgstr "Штраф к рейтингу фильмов."
+
+msgctxt "/txt_TooltipMalusNews"
+msgid "Malus in audience ratings for news broadcasts."
+msgstr "Штраф к рейтингу новостей."
+
+msgctxt "/txt_TooltipMalusSeries"
+msgid "Malus in audience ratings for series."
+msgstr "Штраф к рейтингу сериалов."
+
+msgctxt "/txt_TooltipMalusShows"
+msgid "Malus in audience ratings for shows."
+msgstr "Штраф к рейтингу шоу."
+
+msgctxt "/txt_TooltipMalusTeleshop"
+msgid "Malus in audience ratings for teleshopping."
+msgstr "Штраф к рейтингу телемагазинов."
+
+msgctxt "/txt_TooltipMalusAudience"
+msgid "Malus on the audience ratings"
+msgstr "Штраф к рейтингам аудитории"
+
+msgctxt "/txt_ManageNews"
+msgid "Manage news"
+msgstr "Управление новостями"
+
+msgctxt "/txt_Amount2"
+msgid "Many"
+msgstr "Много"
+
+msgctxt "/txt_MarketSupply"
+msgid "Market supply"
+msgstr "Предложения рынка"
+
+msgctxt "/txt_Marketing"
+msgid "Marketing"
+msgstr "Маркетинг"
+
+msgctxt "/txt_MarketingCampaigns"
+msgid "Marketing campaigns"
+msgstr "Маркетинговые кампании"
+
+msgctxt "/txt_Help_Marketing_1"
+msgid "Marketing increases viewership for the next 12 blocks."
+msgstr "Маркетинг повышает число зрителей на ближайшие 12 блоков."
+
+msgctxt "/txt_MaxPlayers"
+msgid "Max. Players"
+msgstr "Макс. игроков"
+
+msgctxt "/txt_MaxAudienceReachShort"
+msgid "Max. audience reach"
+msgstr "Макс. охват"
+
+msgctxt "/txt_MaxBroadcastTowers"
+msgid "Max. broadcast towers"
+msgstr "Макс. телевышек"
+
+msgctxt "/txt_MaxBudget"
+msgid "Max. budget"
+msgstr "Макс. бюджет"
+
+msgctxt "/txt_Maximum"
+msgid "Maximum"
+msgstr "Максимум"
+
+msgctxt "/txt_MaxAudienceReach"
+msgid "Maximum audience reach"
+msgstr "Максимальный охват аудитории"
+
+msgctxt "/txt_MaxRentalMovies"
+msgid "Maximum number of rental movies"
+msgstr "Лимит арендованных фильмов"
+
+msgctxt "/txt_Level_8"
+msgid "Media Conglomerate Channel"
+msgstr "Канал медиаконгломерата"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_5"
+msgid "Media funding"
+msgstr "Субсидии СМИ"
+
+msgctxt "/txt_Medium"
+msgid "Medium"
+msgstr "Средне"
+
+msgctxt "/txt_ProductionSIze_1"
+msgid "Medium production"
+msgstr "Средний проект"
+
+msgctxt "/txt_Update_Filmstudio1"
+msgid "Medium production"
+msgstr "Среднее производство"
+
+msgctxt "/txt_Message"
+msgid "Message"
+msgstr "Сообщение"
+
+msgctxt "/txt_Mexico"
+msgid "Mexico"
+msgstr "Мексика"
+
+msgctxt "/txt_MinAudience"
+msgid "Min. audience"
+msgstr "Мин. аудитория"
+
+msgctxt "/txt_MondayShort"
+msgid "Mon."
+msgstr "Пн."
+
+msgctxt "/txt_Monday"
+msgid "Monday"
+msgstr "Понедельник"
+
+msgctxt "/txt_Money"
+msgid "Money"
+msgstr "Деньги"
+
+msgctxt "/txt_TeamCostume_2"
+msgid "Monster Creations Ltd."
+msgstr "Monster Creations Ltd."
+
+msgctxt "/txt_Movie"
+msgid "Movie"
+msgstr "Фильм"
+
+msgctxt "/txt_MovieMarket"
+msgid "Movie & series market"
+msgstr "Рынок кино и сериалов"
+
+msgctxt "/txt_MovieRating"
+msgid "Movie rating"
+msgstr "Рейтинг фильма"
+
+msgctxt "/txt_Movies"
+msgid "Movies"
+msgstr "Фильмы"
+
+msgctxt "/txt_MoviesAndSeries"
+msgid "Movies and TV series"
+msgstr "Фильмы и сериалы"
+
+msgctxt "/txt_Help_DailyLicence"
+msgid ""
+"Movies and TV series incur daily license fees. The higher the purchase or "
+"rental price, the higher the license fee."
+msgstr ""
+"За фильмы и сериалы взимаются дневные сборы. Чем выше цена покупки или "
+"аренды, тем больше сбор."
+
+msgctxt "/txt_Help_MovieMarketPremium_6"
+msgid ""
+"Movies and series can be sold again. As acutality decreases, so does the "
+"selling price."
+msgstr ""
+"Кинопродукцию можно перепродать. С падением актуальности падает и цена "
+"продажи."
+
+msgctxt "/txt_Help_MovieMarket_5"
+msgid ""
+"Movies and series can be sold again. As acutality decreases, so does the "
+"selling price."
+msgstr ""
+"Кинопродукцию можно перепродать. С падением актуальности падает и цена "
+"продажи."
+
+msgctxt "/txt_Help_MovieMarketPremium_4"
+msgid ""
+"Movies and series only exist once in the game. The exception is pirated "
+"copies, which can appear multiple times."
+msgstr ""
+"Каждый фильм или сериал существует в игре в единственном экземпляре. "
+"Исключение — пиратские копии."
+
+msgctxt "/txt_Help_MovieMarketRent_4"
+msgid ""
+"Movies and series only exist once in the game. The exception is pirated "
+"copies, which can appear multiple times."
+msgstr ""
+"Каждый фильм или сериал существует в игре в единственном экземпляре. "
+"Исключение — пиратские копии."
+
+msgctxt "/txt_Help_MovieMarket_3"
+msgid ""
+"Movies and series only exist once in the game. The exception is pirated "
+"copies, which can appear multiple times."
+msgstr ""
+"Каждый фильм или сериал существует в игре в единственном экземпляре. "
+"Исключение — пиратские копии."
+
+msgctxt "/txt_Help_PiracyMarket_5"
+msgid "Movies lose 90% of their relevance each time they are broadcast."
+msgstr "Фильмы теряют 90% актуальности после каждого показа."
+
+msgctxt "/txt_Help_MovieMarketPremium_5"
+msgid ""
+"Movies lose 90% of their relevance each time they are broadcast. Series, "
+"however, only lose relevance at the end of a season, allowing you to air "
+"multiple episodes in a row."
+msgstr ""
+"Фильмы теряют 90% актуальности после эфира. Сериалы теряют актуальность "
+"только после завершения сезона, что позволяет показывать серии подряд."
+
+msgctxt "/txt_Help_MovieMarketRent_5"
+msgid ""
+"Movies lose 90% of their relevance each time they are broadcast. Series, "
+"however, only lose relevance at the end of a season, allowing you to air "
+"multiple episodes in a row."
+msgstr ""
+"Фильмы теряют 90% актуальности после эфира. Сериалы теряют актуальность "
+"только после завершения сезона, что позволяет показывать серии подряд."
+
+msgctxt "/txt_Help_MovieMarket_4"
+msgid ""
+"Movies lose 90% of their relevance each time they are broadcast. Series, "
+"however, only lose relevance at the end of a season, allowing you to air "
+"multiple episodes in a row."
+msgstr ""
+"Фильмы теряют 90% актуальности после эфира. Сериалы теряют актуальность "
+"только после завершения сезона, что позволяет показывать серии подряд."
+
+msgctxt "/txt_Multiplayer"
+msgid "Multiplayer"
+msgstr "Мультиплеер"
+
+msgctxt "/txt_MultipleAdvertisingContracts"
+msgid "Multiple advertising contracts"
+msgstr "Несколько рекламных контрактов"
+
+msgctxt "/txt_EnableMusic"
+msgid "Music"
+msgstr "Музыка"
+
+msgctxt "/txt_GenreMusicShow"
+msgid "Music show"
+msgstr "Музыкальное шоу"
+
+msgctxt "/txt_VolumeMusic"
+msgid "Music volume"
+msgstr "Громкость музыки"
+
+msgctxt "/txt_NPC_Marketing8"
+msgid "My recommendation is radio advertising. But it's your decision."
+msgstr "Я рекомендую рекламу на радио. Но решать вам."
+
+msgctxt "/txt_MyServer"
+msgid "My server"
+msgstr "Мой сервер"
+
+msgctxt "/txt_GenreMystery"
+msgid "Mystery"
+msgstr "Мистика"
+
+msgctxt "/txt_NpcDontBankrupt"
+msgid "NPCs don't go bankrupt"
+msgstr "NPC не банкротятся"
+
+msgctxt "/txt_Name"
+msgid "Name"
+msgstr "Имя / Название"
+
+msgctxt "/txt_NameAndLogo"
+msgid "Name and logo of the TV channel"
+msgstr "Название и логотип канала"
+
+msgctxt "/txt_NameTvChannel"
+msgid "Name of the TV channel"
+msgstr "Название телеканала"
+
+msgctxt "/txt_NameOfNewsProgram"
+msgid "Name of the news program"
+msgstr "Название новостей"
+
+msgctxt "/txt_Level_5"
+msgid "National Channel"
+msgstr "Национальный канал"
+
+msgctxt "/txt_Netherlands"
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+msgctxt "/txt_Help_FilmstudioSelect_0T"
+msgid "New Seasons & Sequels"
+msgstr "Новые сезоны и сиквелы"
+
+msgctxt "/txt_NewCommercialsAvailable"
+msgid "New commercials available"
+msgstr "Доступна новая реклама"
+
+msgctxt "/txt_NewGame"
+msgid "New game"
+msgstr "Новая игра"
+
+msgctxt "/txt_NewLiveAvailable"
+msgid "New live events available"
+msgstr "Доступны новые трансляции"
+
+msgctxt "/txt_NewMoviesAvailable"
+msgid "New movies available"
+msgstr "Доступны новые фильмы"
+
+msgctxt "/txt_NewNewsAvailable"
+msgid "New news are available"
+msgstr "Доступны новые новости"
+
+msgctxt "/txt_NewProduction"
+msgid "New production"
+msgstr "Новое производство"
+
+msgctxt "/txt_NewSeason"
+msgid "New season"
+msgstr "Новый сезон"
+
+msgctxt "/txt_NewCommercialPremiumAvailable"
+msgid "New short-term spot available"
+msgstr "Доступен новый короткий ролик"
+
+msgctxt "/txt_NewShowsAvailable"
+msgid "New shows available"
+msgstr "Доступны новые шоу"
+
+msgctxt "/txt_NPC_ShowsMarket2"
+msgid "New shows usually perform better than old movies."
+msgstr "Новые шоу обычно идут лучше старых фильмов."
+
+msgctxt "/txt_NewTeleshoppingAvailable"
+msgid "New teleshopping shows available"
+msgstr "Доступны новые телемагазины"
+
+msgctxt "/txt_NewTrend"
+msgid "New trend"
+msgstr "Новый тренд"
+
+msgctxt "/txt_News"
+msgid "News"
+msgstr "Новости"
+
+msgctxt "/txt_Help_MovieAward_2"
+msgid "News and teleshopping are not included."
+msgstr "Новости и телемагазины не учитываются."
+
+msgctxt "/txt_NewsCategory"
+msgid "News category"
+msgstr "Категория новостей"
+
+msgctxt "/txt_Update_News1"
+msgid "News program with 2 blocks."
+msgstr "Новости из 2 блоков."
+
+msgctxt "/txt_Update_News2"
+msgid "News program with 3 blocks."
+msgstr "Новости из 3 блоков."
+
+msgctxt "/txt_Update_News3"
+msgid "News program with 4 blocks."
+msgstr "Новости из 4 блоков."
+
+msgctxt "/txt_Help_NewsMarket_1"
+msgid "News programs grant an audience bonus to the following show."
+msgstr "Выпуски новостей дают бонус аудитории следующей передаче."
+
+msgctxt "/txt_Help_News_1"
+msgid "News programs grant an audience bonus to the following show."
+msgstr "Выпуски новостей дают бонус аудитории следующей передаче."
+
+msgctxt "/txt_Tutorial19_L"
+msgid ""
+"News programs have very high ratings, so buy new stories daily to keep them "
+"up to date. No one wants to watch outdated news."
+msgstr ""
+"У новостей очень высокие рейтинги, поэтому покупайте сюжеты ежедневно. Никто "
+"не хочет смотреть вчерашние новости."
+
+msgctxt "/txt_NewsSlots"
+msgid "News slots"
+msgstr "Слоты новостей"
+
+msgctxt "/txt_Help_NewsMarket_2"
+msgid ""
+"News stories lose their relevance over time, which leads to lower ratings. "
+"Once the relevance drops to zero, the story is automatically deleted."
+msgstr ""
+"Новости быстро теряют актуальность, что снижает рейтинг. При нулевой "
+"актуальности сюжет удаляется."
+
+msgctxt "/txt_Help_News_2"
+msgid ""
+"News stories lose their relevance over time, which leads to lower ratings. "
+"Once the relevance drops to zero, the story is automatically deleted."
+msgstr ""
+"Новости быстро теряют актуальность, что снижает рейтинг. При нулевой "
+"актуальности сюжет удаляется."
+
+msgctxt "/txt_Newscast"
+msgid "Newscast"
+msgstr "Выпуск новостей"
+
+msgctxt "/txt_Tutorial6_L"
+msgid ""
+"Next, let’s head to the movie market and buy some new movies or series. "
+"Remember - if you’re too late, your competitors might grab the best titles "
+"first."
+msgstr ""
+"Затем отправимся на кинорынок за новыми фильмами. Помните: если опоздаете, "
+"конкуренты заберут лучшие хиты."
+
+msgctxt "/txt_Tutorial25_L"
+msgid ""
+"Next, you should move your items to the archive. Only items stored in your "
+"archive can be used. This means that any movie or commercial you want to "
+"broadcast must be in the archive."
+msgstr ""
+"Теперь перенесите предметы в архив. Только предметы из архива можно ставить "
+"в сетку вещания. Это касается и фильмов, и рекламы."
+
+msgctxt "/txt_No"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "/txt_No18Programs"
+msgid "No 18+ programs"
+msgstr "Без контента 18+"
+
+msgctxt "/txt_NoPauseMode"
+msgid "No Pause Mode"
+msgstr "Без паузы"
+
+msgctxt "/txt_NoSignal"
+msgid "No Signal"
+msgstr "Нет сигнала"
+
+msgctxt "/txt_Help_PiracyMarket_4T"
+msgid "No exclusivity"
+msgstr "Нет эксклюзивности"
+
+msgctxt "/txt_NoLimit"
+msgid "No limit"
+msgstr "Без лимита"
+
+msgctxt "/txt_NoPenalties"
+msgid "No penalties"
+msgstr "Без штрафов"
+
+msgctxt "/txt_NoOversaturation"
+msgid "No penalty for oversaturation"
+msgstr "Без штрафа за перенасыщение"
+
+msgctxt "/txt_Help_Schedule_5T"
+msgid "No program"
+msgstr "Нет программы"
+
+msgctxt "/txt_NoProgram"
+msgid "No program"
+msgstr "Нет программы"
+
+msgctxt "/txt_Help_Advertise_2T"
+msgid "No returns"
+msgstr "Без возвратов"
+
+msgctxt "/txt_Help_NewsMarket_3T"
+msgid "No returns"
+msgstr "Без возвратов"
+
+msgctxt "/txt_Help_Teleshop_3T"
+msgid "No returns"
+msgstr "Без возвратов"
+
+msgctxt "/txt_NoServerFound"
+msgid "No server found"
+msgstr "Сервер не найден"
+
+msgctxt "/txt_NoTeleshop"
+msgid "No teleshopping show"
+msgstr "Без телемагазинов"
+
+msgctxt "/txt_NoWinner"
+msgid "No winner"
+msgstr "Нет победителя"
+
+#, fuzzy
+msgctxt "/txt_WinningOption0"
+msgid "None"
+msgstr "Ничего"
+
+#, fuzzy
+msgctxt "/txt_Amount1"
+msgid "Normal"
+msgstr "Обычно"
+
+#, fuzzy
+msgctxt "/txt_Normal"
+msgid "Normal"
+msgstr "Средне"
+
+msgctxt "/txt_NormalSpeed"
+msgid "Normal speed"
+msgstr "Обычная скорость"
+
+msgctxt "/txt_Norway"
+msgid "Norway"
+msgstr "Норвегия"
+
+msgctxt "/txt_MB_NoNames"
+msgid "Not all names have been entered."
+msgstr "Не все имена введены."
+
+msgctxt "/txt_NotBroadcasted"
+msgid "Not broadcasted"
+msgstr "Не вышло в эфир"
+
+msgctxt "/txt_Help_Schedule_6"
+msgid ""
+"Not every time slot is the same. You should carefully consider at what time "
+"you broadcast an action movie, a western series, or a quiz show."
+msgstr ""
+"Время эфира имеет значение. Тщательно выбирайте время для боевика, вестерна "
+"или викториныВремя эфира имеет значение. Тщательно выбирайте время для "
+"боевика, вестерна или викторины."
+
+msgctxt "/txt_NotRequired"
+msgid "Not required"
+msgstr "Не требуется"
+
+msgctxt "/txt_Note"
+msgid "Note"
+msgstr "Заметка"
+
+msgctxt "/txt_Tutorial21_L"
+msgid ""
+"Now that you have a story for your news program, you should head straight to "
+"the newsroom and get it on the air."
+msgstr ""
+"Теперь, когда у вас есть сюжет, отправляйтесь прямо в отдел новостей и "
+"запускайте его в эфир."
+
+msgctxt "/txt_Number"
+msgid "Number"
+msgstr "Число"
+
+msgctxt "/txt_NumberOfCommercials"
+msgid "Number of spots"
+msgstr "Количество роликов"
+
+msgctxt "/txt_SatelliteTransmissionHours"
+msgid "Number of transmission hours you wish to rent this satellite."
+msgstr "Количество часов аренды спутника."
+
+msgctxt "/txt_NewsShortNum"
+msgid "N{NUM}"
+msgstr "N{NUM}"
+
+msgctxt "/txt_OK"
+msgid "OK"
+msgstr "ОК"
+
+msgctxt "/txt_ObjectsDisposed"
+msgid "Objects to be disposed of"
+msgstr "Предметы на утилизацию"
+
+msgctxt "/txt_Help_Teleshop_4T"
+msgid "Obligation to broadcast"
+msgstr "Обязательство вещания"
+
+msgctxt "/txt_OccRoomsCannotEntered"
+msgid "Occupied rooms cannot be entered"
+msgstr "Нельзя войти в занятую комнату"
+
+msgctxt "/txt_NPC_WC1"
+msgid "Occupied!"
+msgstr "Занято!"
+
+msgctxt "/txt_Off"
+msgid "Off"
+msgstr "Выкл"
+
+msgctxt "/txt_OfferedPiratedCopies"
+msgid "Offered pirated copies"
+msgstr "Предложенные пиратские копии"
+
+msgctxt "/txt_Office"
+msgid "Office"
+msgstr "Офис"
+
+msgctxt "/txt_Old"
+msgid "Old"
+msgstr "Старое"
+
+msgctxt "/txt_On"
+msgid "On"
+msgstr "Вкл"
+
+msgctxt "/txt_Tutorial10_L"
+msgid ""
+"On the left side of the menu, you can see all movies and series currently "
+"for sale. Movies and series have different attributes that can affect their "
+"ratings. For now, you should keep an eye on their potential and actuality. "
+"Potential shows you how high the estimated rating can be, while actuality "
+"indicates whether the movie or series has been broadcast recently For more "
+"information, click the ‘?’ in the top-right corner of the menu."
+msgstr ""
+"Слева в меню показаны все доступные для покупки фильмы. У них разные "
+"атрибуты. Следите за Потенциалом (максимальный рейтинг) и Актуальностью "
+"(насколько недавно их показывали). Нажмите «?», чтобы узнать больше."
+
+msgctxt "/txt_Tutorial5_L"
+msgid ""
+"On the left side, you’ll see your broadcast schedule. You can drag and drop "
+"movies and series from your archive into the schedule. For more information, "
+"click the ‘?’ in the top-right corner. Now create a schedule as you like and "
+"then leave the menu."
+msgstr ""
+"Слева находится сетка вещания. Перетаскивайте туда фильмы и сериалы из "
+"архива. Нажмите «?» для справки. Составьте расписание на свой вкус и "
+"выходите из меню."
+
+msgctxt "/txt_Help_Teleshop_5"
+msgid ""
+"Once all episodes have been broadcast, the teleshopping show will be "
+"automatically deleted."
+msgstr ""
+"Когда все выпуски телемагазина выйдут в эфир, он будет автоматически удален."
+
+msgctxt "/txt_Help_Advertise_4"
+msgid ""
+"Once all spots have been successfully broadcast, the contract will be "
+"automatically deleted and you will receive your payment."
+msgstr ""
+"После показа всех роликов контракт закроется автоматически, и вы получите "
+"оплату."
+
+msgctxt "/txt_Help_Old_Text"
+msgid ""
+"Once all the episodes of a show have aired, its ratings drop significantly."
+msgstr "Когда все серии шоу показаны, его рейтинги сильно падают."
+
+msgctxt "/txt_Tutorial4_L"
+msgid ""
+"Once you enter a room, different options will be available to you. In your "
+"office, you can manage your broadcast schedule, view statistics, or upgrade "
+"the room. We want to take a closer look at the schedule, so please click the "
+"first button."
+msgstr ""
+"В каждой комнате свои возможности. В офисе можно управлять сеткой вещания, "
+"смотреть статистику или улучшать кабинет. Давайте откроем расписание — "
+"нажмите первую кнопку."
+
+msgctxt "/txt_NPC_WC9"
+msgid "One minute, please!"
+msgstr "Одну минуту, пожалуйста!"
+
+msgctxt "/txt_MB_TvStationClosed"
+msgid "One of your competitors had to shut down its TV station."
+msgstr "Один из ваших конкурентов закрылся."
+
+msgctxt "/txt_NoModernFilms"
+msgid "Only films up to the 1990s"
+msgstr "Только фильмы до 90-х"
+
+msgctxt "/txt_Help_Archives_1"
+msgid ""
+"Only movies, series, shows, and other content stored in your archive can be "
+"placed in your schedule."
+msgstr "В расписание можно ставить только то, что находится в архиве."
+
+msgctxt "/txt_Help_Marketing_2"
+msgid "Only one advertising campaign can be active at a time."
+msgstr "Одновременно может идти только одна кампания."
+
+msgctxt "/txt_OnlyTheHost"
+msgid "Only the host"
+msgstr "Только хост"
+
+msgctxt "/txt_Options"
+msgid "Options"
+msgstr "Настройки"
+
+msgctxt "/txt_TeamCamera_1"
+msgid "Orbit Camera Team"
+msgstr "Orbit Camera Team"
+
+msgctxt "/txt_OtherExpenses"
+msgid "Other expenses"
+msgstr "Прочие расходы"
+
+msgctxt "/txt_OtherIncome"
+msgid "Other income"
+msgstr "Прочий доход"
+
+msgctxt "/txt_NPC_AdvertiseMarket7"
+msgid "Our advertising partners are trustworthy and always pay on time."
+msgstr "Наши рекламные партнеры надежны и платят вовремя."
+
+msgctxt "/txt_NPC_Marketing6"
+msgid "Our advertising will significantly increase your viewership."
+msgstr "Наша реклама значительно увеличит число ваших зрителей."
+
+msgctxt "/txt_NPC_ShowsMarket7"
+msgid "Our cooking shows always make me hungry..."
+msgstr "От наших кулинарных шоу мне всегда хочется есть..."
+
+msgctxt "/txt_NPC_PressAgency6"
+msgid "Our journalistic standards are award-worthy!"
+msgstr "Наши журналистские стандарты достойны наград!"
+
+msgctxt "/txt_NPC_PressAgency2"
+msgid "Our news is completely reliable!"
+msgstr "Нашим новостям можно доверять!"
+
+msgctxt "/txt_NPC_PressAgency7"
+msgid "Our news items undergo three rounds of fact checking!"
+msgstr "Каждая новость проходит три проверки фактов!"
+
+msgctxt "/txt_NPC_ShowsMarket10"
+msgid "Our show productions have won multiple awards!"
+msgstr "Наши шоу получили множество наград!"
+
+msgctxt "/txt_NPC_ShowsMarket5"
+msgid "Our shows are licensed and broadcast worldwide."
+msgstr "Наши шоу лицензированы и идут по всему миру."
+
+msgctxt "/txt_NPC_Sendeturm2"
+msgid "Our transmission towers are completely earthquake-proof!"
+msgstr "Наши телевышки полностью сейсмоустойчивы!"
+
+msgctxt "/txt_NPC_Sendeturm5"
+msgid "Our transmission towers are taller than the Pyramid of Cheops!"
+msgstr "Наши вышки выше пирамиды Хеопса!"
+
+msgctxt "/txt_TeamCamera_3"
+msgid "Panorama Productions Ltd."
+msgstr "Panorama Productions Ltd."
+
+msgctxt "/txt_NPC_Recycle3"
+msgid "Paper belongs in the left container ..."
+msgstr "Бумагу в левый контейнер..."
+
+msgctxt "/txt_Password"
+msgid "Password"
+msgstr "Пароль"
+
+msgctxt "/txt_Pause"
+msgid "Pause"
+msgstr "Пауза"
+
+msgctxt "/txt_PayLoan"
+msgid "Pay off a loan"
+msgstr "Погасить кредит"
+
+msgctxt "/txt_Penalties"
+msgid "Penalties"
+msgstr "Штрафы"
+
+msgctxt "/txt_Penalty"
+msgid "Penalty"
+msgstr "Штраф"
+
+msgctxt "/txt_PenaltyPiratedCopies"
+msgid "Penalty for pirated copies"
+msgstr "Штраф за пиратство"
+
+msgctxt "/txt_PenaltyPerDay"
+msgid "Penalty per day"
+msgstr "Штраф в день"
+
+msgctxt "/txt_PermissionGameSpeed"
+msgid "Permission to adjust the game speed [Multiplayer]"
+msgstr "Допуск к изменению скорости [Мультиплеер]"
+
+msgctxt "/txt_LicenceMarketing"
+msgid "Permission to advertise your TV channel: {CUR}{NUM}"
+msgstr "Лицензия на рекламу канала: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceMisc4"
+msgid "Permission to broadcast a cooking show [{TEXT}]: {CUR}{NUM}"
+msgstr "Разрешение на кулинарное шоу [{TEXT}]: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceMisc3"
+msgid "Permission to broadcast a lottery program [{TEXT}]: {CUR}{NUM}"
+msgstr "Разрешение на лотерею [{TEXT}]: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceMisc5"
+msgid "Permission to broadcast a science program [{TEXT}]: {CUR}{NUM}"
+msgstr "Разрешение на научную программу [{TEXT}]: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceMisc6"
+msgid "Permission to broadcast a stand-up comedy show [{TEXT}]: {CUR}{NUM}"
+msgstr "Разрешение на стендап-шоу [{TEXT}]: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceMisc2"
+msgid "Permission to broadcast a stock market program [{TEXT}]: {CUR}{NUM}"
+msgstr "Разрешение на биржевые сводки [{TEXT}]: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceMisc1"
+msgid "Permission to broadcast a weather program [{TEXT}]: {CUR}{NUM}"
+msgstr "Разрешение на прогноз погоды [{TEXT}]: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceServer"
+msgid "Permission to offer a streaming service: {CUR}{NUM}"
+msgstr "Лицензия на стриминговый сервис: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceTransmissionTower"
+msgid "Permission to operate more than 5 transmission towers: {CUR}{NUM}"
+msgstr "Лицензия на владение более 5 вышками: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceOwnProduction"
+msgid "Permission to produce your own films and series: {CUR}{NUM}"
+msgstr "Разрешение на собственное производство: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceNewsEntertainment"
+msgid ""
+"Permission to purchase entertainment news from the press agency: {CUR}{NUM}"
+msgstr "Допуск к новостям шоу-бизнеса: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceNewsSport"
+msgid "Permission to purchase sports news from the press agency: {CUR}{NUM}"
+msgstr "Допуск к спортивным новостям: {CUR}{NUM}"
+
+msgctxt "/txt_LicenceSatellite"
+msgid "Permission to rent satellites: {CUR}"
+msgstr "Лицензия на аренду спутников: {CUR}"
+
+msgctxt "/txt_LicenceRentalMovies"
+msgid "Permission to rent up to {NUM_MOVIES} movies: {CUR}{NUM}"
+msgstr "Лицензия на аренду до {NUM_MOVIES} фильмов: {CUR}{NUM}"
+
+msgctxt "/txt_PickUp"
+msgid "Pick up"
+msgstr "Поднять"
+
+msgctxt "/txt_Ping"
+msgid "Ping"
+msgstr "Пинг"
+
+msgctxt "/txt_Help_PiracyMarket_1T"
+msgid "Pirated copies"
+msgstr "Пиратские копии"
+
+msgctxt "/txt_PiratedCopies"
+msgid "Pirated copies"
+msgstr "Пиратские копии"
+
+msgctxt "/txt_Help_PiracyMarket_4"
+msgid ""
+"Pirated copies can appear multiple times in the game, including movies that "
+"have already been legally purchased by other players."
+msgstr ""
+"Пиратские копии могут появляться в игре многократно, даже если оригинал уже "
+"куплен другим игроком."
+
+msgctxt "/txt_Help_PiracyMarket_1"
+msgid ""
+"Pirated copies cannot be resold. There is a chance that you may get caught "
+"and have to pay a fine."
+msgstr ""
+"Пиратские копии нельзя продать. Есть шанс попасться и выплатить крупный "
+"штраф."
+
+msgctxt "/txt_PiratedCopie"
+msgid "Pirated copy"
+msgstr "Пиратская копия"
+
+msgctxt "/txt_AllToArchive"
+msgid "Place all items in the archive"
+msgstr "Отправить всё в архив"
+
+msgctxt "/txt_PlaceNextFreeSlot"
+msgid "Place in the next free slot"
+msgstr "В следующий свободный слот"
+
+msgctxt "/txt_PlayerName"
+msgid "Player name"
+msgstr "Имя игрока"
+
+msgctxt "/txt_Players"
+msgid "Players"
+msgstr "Игроки"
+
+msgctxt "/txt_Poland"
+msgid "Poland"
+msgstr "Польша"
+
+msgctxt "/txt_Popular"
+msgid "Popular"
+msgstr "Популярно"
+
+msgctxt "/txt_TrendHelp"
+msgid ""
+"Popular programs have {NUM}% more viewers, and unpopular programs have {NUM}"
+"% fewer viewers."
+msgstr ""
+"У популярных программ на {NUM}% больше зрителей, у непопулярных — на {NUM}% "
+"меньше."
+
+msgctxt "/txt_Portugal"
+msgid "Portugal"
+msgstr "Португалия"
+
+msgctxt "/txt_PostProcess"
+msgid "Post Processing"
+msgstr "Постобработка"
+
+msgctxt "/txt_PostProduction"
+msgid "Post-Production"
+msgstr "Постпродакшн"
+
+msgctxt "/txt_Posters"
+msgid "Posters"
+msgstr "Плакаты"
+
+msgctxt "/txt_Potential"
+msgid "Potential"
+msgstr "Потенциал"
+
+msgctxt "/txt_Currency_2"
+msgid "Pound"
+msgstr "Фунт"
+
+msgctxt "/txt_Help_PremiereTitle"
+msgid "Premiere"
+msgstr "Премьера"
+
+msgctxt "/txt_Premiere"
+msgid "Premiere"
+msgstr "Премьера"
+
+msgctxt "/txt_Premium"
+msgid "Premium"
+msgstr "Премиум"
+
+msgctxt "/txt_Help_MovieMarketPremium_1T"
+msgid "Premium movie"
+msgstr "Премиум-фильм"
+
+msgctxt "/txt_PremiumMovie"
+msgid "Premium movie"
+msgstr "Премиум-фильм"
+
+msgctxt "/txt_Help_MovieMarketPremium_0"
+msgid ""
+"Premium movies are fairly recent titles that can be broadcast at any time "
+"without loss of viewers."
+msgstr ""
+"Премиум-фильмы — это свежие хиты, которые можно показывать когда угодно без "
+"потери аудитории."
+
+msgctxt "/txt_Presenter"
+msgid "Presenter "
+msgstr "Ведущий "
+
+msgctxt "/txt_PressAgency"
+msgid "Press agency"
+msgstr "Новостное агентство"
+
+msgctxt "/txt_Price"
+msgid "Price"
+msgstr "Цена"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_2"
+msgid "Price war"
+msgstr "Ценовая война"
+
+msgctxt "/txt_Tooltip_RandomEvent_9"
+msgid ""
+"Prices for building materials are in free fall. As a result, the cost of "
+"upgrading rooms is <Bold>50%</> cheaper."
+msgstr ""
+"Цены на стройматериалы рухнули. Улучшение комнат теперь дешевле на "
+"<Bold>50%</>."
+
+msgctxt "/txt_ProduceMovie"
+msgid "Produce films, series, or shows"
+msgstr "Снять фильм, сериал или шоу"
+
+msgctxt "/txt_ProductionSize"
+msgid "Production size"
+msgstr "Масштаб производства"
+
+msgctxt "/txt_ProductionTeams"
+msgid "Production teams"
+msgstr "Команды производства"
+
+msgctxt "/txt_Help_TeamsTitle_2"
+msgid "Production time"
+msgstr "Время производства"
+
+msgctxt "/txt_ProductionTime"
+msgid "Production time"
+msgstr "Время производства"
+
+msgctxt "/txt_Help_TeamsText_2"
+msgid "Professional teams are more expensive and increase production time."
+msgstr "Профессиональные команды стоят дороже и увеличивают время съемок."
+
+msgctxt "/txt_ProfitLoss"
+msgid "Profit / Loss"
+msgstr "Прибыль / Убыток"
+
+msgctxt "/txt_ProgramDetails"
+msgid "Program Details"
+msgstr "О программе"
+
+msgctxt "/txt_ProgramLength"
+msgid "Program length"
+msgstr "Длительность"
+
+msgctxt "/txt_ProgramRequest"
+msgid "Program request"
+msgstr "Запрос программы"
+
+msgctxt "/txt_ProgramType"
+msgid "Program type"
+msgstr "Тип программы"
+
+msgctxt "/txt_TeamMusic_2"
+msgid "Pulsewave Group"
+msgstr "Pulsewave Group"
+
+msgctxt "/txt_PurchasePrice"
+msgid "Purchase price"
+msgstr "Цена покупки"
+
+msgctxt "/txt_Purchased"
+msgid "Purchased"
+msgstr "Куплено"
+
+msgctxt "/txt_Help_NewsMarket_3"
+msgid "Purchased news stories cannot be returned."
+msgstr "Купленные новости нельзя вернуть."
+
+msgctxt "/txt_TeamFX_3"
+msgid "Pyro Pulse Ltd."
+msgstr "Pyro Pulse Ltd."
+
+msgctxt "/txt_QuarterShort"
+msgid "Q"
+msgstr "Кв"
+
+msgctxt "/txt_QuartersShort"
+msgid "Qs."
+msgstr "кв. "
+
+msgctxt "/txt_Quarter-s"
+msgid "Quarter(s)"
+msgstr "Квартал(ы)"
+
+msgctxt "/txt_QuitGame"
+msgid "Quit game"
+msgstr "Выйти из игры"
+
+msgctxt "/txt_GenreQuizShow"
+msgid "Quiz show"
+msgstr "Викторина"
+
+msgctxt "/txt_RemainingQuartersShort"
+msgid "R.quarters"
+msgstr "Ост.кв. "
+
+msgctxt "/txt_RemainingTimeShort"
+msgid "R.time"
+msgstr "Ост.вр. "
+
+msgctxt "/txt_Radio"
+msgid "Radio"
+msgstr "Радио"
+
+msgctxt "/txt_RandomEvent"
+msgid "Random event"
+msgstr "Случайное событие"
+
+msgctxt "/txt_RandomName"
+msgid "Random name"
+msgstr "Случайное имя"
+
+msgctxt "/txt_RandomScreenshot"
+msgid "Random screenshot"
+msgstr "Случайный скриншот"
+
+msgctxt "/txt_RandomMovies"
+msgid "Random values for movies and series"
+msgstr "Случайные значения для кино"
+
+msgctxt "/txt_Rarity_2"
+msgid "Rare"
+msgstr "Редкий"
+
+msgctxt "/txt_Rating"
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgctxt "/txt_RatingNewsPrograms"
+msgid "Rating of the news programs"
+msgstr "Рейтинг новостей"
+
+msgctxt "/txt_TeamCostume_4"
+msgid "Real Beasts Productions Inc."
+msgstr "Real Beasts Productions Inc."
+
+msgctxt "/txt_RealEstateMarketer"
+msgid "Real estate marketer"
+msgstr "Риелтор"
+
+msgctxt "/txt_GenreRealityShow"
+msgid "Reality show"
+msgstr "Реалити-шоу"
+
+msgctxt "/txt_Tooltip_RandomEvent_11"
+msgid ""
+"Recently, TV advertising has not been very effective, so some brands will "
+"reduce their marketing budget in the short term. Commercials that appear "
+"during the day will be paid <Bold>20%</> less."
+msgstr ""
+"В последнее время ТВ-реклама менее эффективна. Бренды урезают бюджеты: "
+"дневные ролики будут оплачиваться на <Bold>20%</> меньше."
+
+msgctxt "/txt_Help_Recycle_1T"
+msgid "Recycling"
+msgstr "Утилизация"
+
+msgctxt "/txt_Recycling"
+msgid "Recycling"
+msgstr "Утилизация"
+
+msgctxt "/txt_NPC_Recycle2"
+msgid "Recycling protects the environment!"
+msgstr "Утилизация бережет природу!"
+
+msgctxt "/txt_DefaultChannelName_0"
+msgid "Red Network"
+msgstr "Красная Сеть"
+
+msgctxt "/txt_MiscDesc_4"
+msgid "Reduces the malus for live events."
+msgstr "Снижает штраф для прямых эфиров."
+
+msgctxt "/txt_MiscDesc_1"
+msgid "Reduces the malus for movies."
+msgstr "Снижает штраф для фильмов."
+
+msgctxt "/txt_MiscDesc_6"
+msgid "Reduces the malus for news."
+msgstr "Снижает штраф для новостей."
+
+msgctxt "/txt_MiscDesc_2"
+msgid "Reduces the malus for series."
+msgstr "Снижает штраф для сериалов."
+
+msgctxt "/txt_MiscDesc_3"
+msgid "Reduces the malus for shows."
+msgstr "Снижает штраф для шоу."
+
+msgctxt "/txt_MiscDesc_5"
+msgid "Reduces the malus for teleshopping."
+msgstr "Снижает штраф для телемагазинов."
+
+msgctxt "/txt_Reflections"
+msgid "Reflections"
+msgstr "Отражения"
+
+msgctxt "/txt_RefreshServerList"
+msgid "Refresh server list"
+msgstr "Обновить список серверов"
+
+msgctxt "/txt_RegenerationActuality"
+msgid "Regeneration speed of actuality"
+msgstr "Скорость регенерации актуальности"
+
+msgctxt "/txt_Level_4"
+msgid "Regional Broadcaster"
+msgstr "Региональный вещатель"
+
+msgctxt "/txt_Help_TeamsTitle_1"
+msgid "Relevance"
+msgstr "Релевантность"
+
+msgctxt "/txt_RemainingTime"
+msgid "Remaining time"
+msgstr "Оставшееся время"
+
+msgctxt "/txt_RentMovie"
+msgid "Rent movie"
+msgstr "Арендовать фильм"
+
+msgctxt "/txt_RentMovies"
+msgid "Rent movies"
+msgstr "Аренда фильмов"
+
+msgctxt "/txt_RentSatellite"
+msgid "Rent satellite capacity"
+msgstr "Арендовать спутник"
+
+msgctxt "/txt_Help_MovieMarketRent_1T"
+msgid "Rented movie"
+msgstr "Арендованный фильм"
+
+msgctxt "/txt_ReputationShort"
+msgid "Rep."
+msgstr "Реп."
+
+msgctxt "/txt_Help_Schedule_1T"
+msgid "Reputation"
+msgstr "Репутация"
+
+msgctxt "/txt_Reputation"
+msgid "Reputation"
+msgstr "Репутация"
+
+msgctxt "/txt_ReputationIncDec"
+msgid "Reputation increased / decreased"
+msgstr "Репутация возросла / упала"
+
+msgctxt "/txt_RequiredLevel"
+msgid "Required level"
+msgstr "Нужен уровень"
+
+msgctxt "/txt_RequiredReputation"
+msgid "Required reputation"
+msgstr "Нужна репутация"
+
+msgctxt "/txt_ResetSettings"
+msgid "Reset settings"
+msgstr "Сбросить настройки"
+
+msgctxt "/txt_Resolution"
+msgid "Resolution"
+msgstr "Разрешение"
+
+msgctxt "/txt_ResolutionScale"
+msgid "Resolution Scale"
+msgstr "Масштаб разрешения"
+
+msgctxt "/txt_Result"
+msgid "Result"
+msgstr "Результат"
+
+msgctxt "/txt_Help_Teleshop_2T"
+msgid "Revenue"
+msgstr "Доход"
+
+msgctxt "/txt_Revenue"
+msgid "Revenue"
+msgstr "Доход"
+
+msgctxt "/txt_Review"
+msgid "Review"
+msgstr "Обзор"
+
+msgctxt "/txt_Reward"
+msgid "Reward"
+msgstr "Награда"
+
+msgctxt "/txt_GenreRomantic"
+msgid "Romantic"
+msgstr "Мелодрама"
+
+msgctxt "/txt_Focus_2"
+msgid "Romanticism"
+msgstr "Романтика"
+
+msgctxt "/txt_Help_News_4T"
+msgid "Room update"
+msgstr "Улучшение комнаты"
+
+msgctxt "/txt_RoomUpdates"
+msgid "Room updates"
+msgstr "Улучшения комнат"
+
+msgctxt "/txt_RoomsAndTowers"
+msgid "Rooms"
+msgstr "Комнаты"
+
+msgctxt "/txt_NoRenovation"
+msgid "Rooms are not being renovated"
+msgstr "Комнаты не на ремонте"
+
+msgctxt "/txt_RoomsOpenAroundTheClock"
+msgid "Rooms are open around the clock"
+msgstr "Комнаты открыты круглосуточно"
+
+msgctxt "/txt_SpotsShort"
+msgid "S."
+msgstr "Рол."
+
+msgctxt "/txt_Sabotage"
+msgid "Sabotage"
+msgstr "Саботаж"
+
+msgctxt "/txt_Salary"
+msgid "Salary"
+msgstr "Зарплата"
+
+msgctxt "/txt_Salary1000"
+msgid "Salary per 1000 viewers"
+msgstr "Оплата за 1000 зрителей"
+
+msgctxt "/txt_SalesOfMovies"
+msgid "Sales of movies and series"
+msgstr "Продажа фильмов и сериалов"
+
+msgctxt "/txt_SaturdayShort"
+msgid "Sat."
+msgstr "Сб."
+
+msgctxt "/txt_SpaceAgency"
+msgid "Satellite Operator "
+msgstr "Спутниковый оператор "
+
+msgctxt "/txt_Review_Name3"
+msgid "Satellite Reporter"
+msgstr "Спутниковый репортер"
+
+msgctxt "/txt_NPC_SpaceAgency6"
+msgid ""
+"Satellite capacity is like fame: everyone wants it, but no one can afford "
+"it..."
+msgstr ""
+"Спутниковые мощности как слава: все хотят, но мало кто может позволить..."
+
+msgctxt "/txt_Satellites"
+msgid "Satellites"
+msgstr "Спутники"
+
+msgctxt "/txt_Help_Satellite"
+msgid ""
+"Satellites can increase your audience reach in the short term for a limited "
+"period of time."
+msgstr "Спутники позволяют временно увеличить охват аудитории."
+
+msgctxt "/txt_Saturday"
+msgid "Saturday"
+msgstr "Суббота"
+
+msgctxt "/txt_SaveGame"
+msgid "Save game"
+msgstr "Сохранить игру"
+
+msgctxt "/txt_GenreScienceFiction"
+msgid "Science Fiction"
+msgstr "Научная фантастика"
+
+msgctxt "/txt_Help_News_3T"
+msgid "Scope"
+msgstr "Размах"
+
+msgctxt "/txt_Screenshot"
+msgid "Screenshot"
+msgstr "Скриншот"
+
+msgctxt "/txt_ScreenwritingAgency"
+msgid "Screenwriting agency"
+msgstr "Сценарное агентство"
+
+msgctxt "/txt_Script"
+msgid "Script"
+msgstr "Сценарий"
+
+msgctxt "/txt_Scripts"
+msgid "Scripts"
+msgstr "Сценарии"
+
+msgctxt "/txt_TeamCamera_2"
+msgid "Second Unit Studios"
+msgstr "Second Unit Studios"
+
+msgctxt "/txt_SellBroadcastTower"
+msgid "Sell broadcast tower"
+msgstr "Продать телевышку"
+
+msgctxt "/txt_SellingPrice"
+msgid "Selling price"
+msgstr "Цена продажи"
+
+msgctxt "/txt_TargetGroup_4"
+msgid "Seniors"
+msgstr "Пожилые"
+
+msgctxt "/txt_Sequel"
+msgid "Sequel"
+msgstr "Сиквел"
+
+msgctxt "/txt_Series"
+msgid "Series"
+msgstr "Сериалы"
+
+msgctxt "/txt_SeriesSingular"
+msgid "Series"
+msgstr "Сериал"
+
+msgctxt "/txt_SeriesRating"
+msgid "Series rating"
+msgstr "Рейтинг сериала"
+
+msgctxt "/txt_Help_FullLength"
+msgid "Series with this feature have a running time of more than one hour."
+msgstr "У таких сериалов длительность серии больше часа."
+
+msgctxt "/txt_ServerList"
+msgid "Server list"
+msgstr "Список серверов"
+
+msgctxt "/txt_ServerName"
+msgid "Server name"
+msgstr "Имя сервера"
+
+msgctxt "/txt_ServerRoom"
+msgid "Server room"
+msgstr "Серверная"
+
+msgctxt "/txt_ServerSettings"
+msgid "Server settings"
+msgstr "Настройки сервера"
+
+msgctxt "/txt_SetConstruction"
+msgid "Set construction"
+msgstr "Строительство декораций"
+
+msgctxt "/txt_SetTeamsAll"
+msgid "Set quality for all teams"
+msgstr "Качество для всех команд"
+
+msgctxt "/txt_MB_SameChannel"
+msgid "Several players have selected the same TV channel."
+msgstr "Несколько игроков выбрали один канал."
+
+msgctxt "/txt_Shading"
+msgid "Shading"
+msgstr "Шейдеры"
+
+msgctxt "/txt_ShadowQuality"
+msgid "Shadows"
+msgstr "Тени"
+
+msgctxt "/txt_NPC_ShowsMarket1"
+msgid "Shall I introduce you to our latest shows?"
+msgstr "Показать вам наши последние шоу?"
+
+msgctxt "/txt_NPC_MovieMarket7"
+msgid "Shall I show you my new film collection?"
+msgstr "Хотите взглянуть на мою новую коллекцию?"
+
+msgctxt "/txt_NPC_Sendeturm8"
+msgid "Shall I show you some blueprints for our transmission towers?"
+msgstr "Показать чертежи наших телевышек?"
+
+msgctxt "/txt_NPC_Sendeturm10"
+msgid ""
+"Shall I show you the most suitable locations for a transmission tower on the "
+"map?"
+msgstr "Показать на карте лучшие места для установки вышек?"
+
+msgctxt "/txt_TeamFX_2"
+msgid "Shockwave Effects"
+msgstr "Shockwave Effects"
+
+msgctxt "/txt_Shop"
+msgid "Shop"
+msgstr "Магазин"
+
+msgctxt "/txt_Help_Schedule_3T"
+msgid "Short program"
+msgstr "Короткая передача"
+
+msgctxt "/txt_Miscellaneous"
+msgid "Short program"
+msgstr "Короткая передача"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_10"
+msgid "Short-term marketing campaigns"
+msgstr "Краткие рекламные акции"
+
+msgctxt "/txt_AdvertisePremium"
+msgid "Short-term spot"
+msgstr "Короткий ролик"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_8"
+msgid "Shortage of skilled tradespeople"
+msgstr "Дефицит специалистов"
+
+msgctxt "/txt_NPC_Live9"
+msgid "Should I get you the broadcasting rights for a sporting event?"
+msgstr "Добыть вам права на спортивное событие?"
+
+msgctxt "/txt_NPC_Live1"
+msgid "Should I get you the broadcasting rights to a sporting event?"
+msgstr "Добыть вам права на спортивное событие?"
+
+msgctxt "/txt_NPC_Recycle1"
+msgid "Should I throw something away for you?"
+msgstr "Мне что-нибудь выбросить?"
+
+msgctxt "/txt_Show"
+msgid "Show"
+msgstr "Шоу"
+
+msgctxt "/txt_ShowProducer"
+msgid "Show Producer"
+msgstr "Продюсер шоу"
+
+msgctxt "/txt_ShowArchive"
+msgid "Show archive"
+msgstr "Открыть архив"
+
+msgctxt "/txt_ShowMarket"
+msgid "Show market"
+msgstr "Рынок шоу"
+
+msgctxt "/txt_ShowRating"
+msgid "Show rating"
+msgstr "Рейтинг шоу"
+
+msgctxt "/txt_ShowHideMessages"
+msgid "Show/hide old messages"
+msgstr "Показать/скрыть старые сообщения"
+
+msgctxt "/txt_Shows"
+msgid "Shows"
+msgstr "Шоу"
+
+msgctxt "/txt_Help_ShowMarket_1"
+msgid ""
+"Shows are always current productions and often achieve higher ratings than "
+"movies or series."
+msgstr ""
+"Шоу — это всегда актуальный продукт, их рейтинги часто выше, чем у кино."
+
+msgctxt "/txt_Help_ShowMarket_5"
+msgid ""
+"Shows are always rated for all ages. Therefore, you can broadcast them at "
+"any time without hesitation."
+msgstr ""
+"У шоу всегда рейтинг «для всех возрастов». Их можно ставить в эфир когда "
+"угодно."
+
+msgctxt "/txt_Help_ShowMarket_4"
+msgid ""
+"Shows lose 50% of their relevance per broadcast, but regain 100% the "
+"following day."
+msgstr ""
+"Шоу теряют 50% актуальности после эфира, но полностью восстанавливают её на "
+"следующий день."
+
+msgctxt "/txt_Help_ShowMarket_3"
+msgid "Shows only exist once in the game."
+msgstr "Каждое шоу существует в единственном экземпляре."
+
+msgctxt "/txt_Tooltip_AdvertiseAllSpots"
+msgid ""
+"Shows you whether you have all the necessary spots in your broadcast "
+"schedule."
+msgstr "Показывает, все ли нужные ролики стоят в расписании."
+
+msgctxt "/txt_TeamCostume_1"
+msgid "Silicone & Plastic Studios"
+msgstr "Silicone & Plastic Studios"
+
+msgctxt "/txt_TeamSetContruct_3"
+msgid "Silver Hammer Sets Inc."
+msgstr "Silver Hammer Sets Inc."
+
+msgctxt "/txt_Singleplayer"
+msgid "Singleplayer"
+msgstr "Одиночная игра"
+
+msgctxt "/txt_TeamMusic_4"
+msgid "Skywood Sound Studios Inc."
+msgstr "Skywood Sound Studios Inc."
+
+#, fuzzy
+msgctxt "/txt_AlienEgg"
+msgid "Slimy eggs"
+msgstr "Slimy eggs"
+
+msgctxt "/txt_Slow"
+msgid "Slow"
+msgstr "Медленно"
+
+msgctxt "/txt_ProductionSIze_0"
+msgid "Small production"
+msgstr "Малый проект"
+
+msgctxt "/txt_TeamFX_1"
+msgid "Smoke & Dust Studios"
+msgstr "Smoke & Dust Studios"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_6"
+msgid "Soaring fees"
+msgstr "Взлет тарифов"
+
+msgctxt "/txt_Tooltip_RandomEvent_10"
+msgid ""
+"Some brands launch new products at the same time and compete for the "
+"available ad slots. As a result, ad spots that appear later in the day are "
+"paid <Bold>20%</> better."
+msgstr ""
+"Бренды конкурируют за слоты из-за выхода новых товаров. Ролики во второй "
+"половине дня оплачиваются на <Bold>20%</> выше."
+
+msgctxt "/txt_NYA"
+msgid "Some features are not yet available!"
+msgstr "Некоторые функции пока недоступны!"
+
+msgctxt "/txt_Help_Schedule_2"
+msgid ""
+"Some movies and shows have positive or negative traits that can affect "
+"ratings, among other things."
+msgstr ""
+"У некоторых фильмов есть черты, влияющие на рейтинг и другие параметры."
+
+msgctxt "/txt_NPC_WC2"
+msgid "Someone's in here!"
+msgstr "Здесь занято!"
+
+msgctxt "/txt_NPC_MovieMarket8"
+msgid "Someone's selling pirated copies here. Keep your hands off them!"
+msgstr "Тут кто-то торгует пиратчиной. Не связывайтесь с этим!"
+
+msgctxt "/txt_NPC_WC7"
+msgid "Sorry, it’s taken."
+msgstr "Извините, занято."
+
+msgctxt "/txt_Sort"
+msgid "Sort"
+msgstr "Сортировка"
+
+msgctxt "/txt_Sound"
+msgid "Sound"
+msgstr "Звук"
+
+msgctxt "/txt_SoundAndMusic"
+msgid "Sound & Music"
+msgstr "Звук и музыка"
+
+msgctxt "/txt_soundVolume"
+msgid "Sound effects volume"
+msgstr "Громкость эффектов"
+
+msgctxt "/txt_TeamMusic_1"
+msgid "SoundWorks Studios"
+msgstr "SoundWorks Studios"
+
+msgctxt "/txt_SouthAfrica"
+msgid "South Africa"
+msgstr "ЮАР"
+
+msgctxt "/txt_SouthKorea"
+msgid "South Korea"
+msgstr "Южная Корея"
+
+msgctxt "/txt_Spain"
+msgid "Spain"
+msgstr "Испания"
+
+msgctxt "/txt_SpecialEffects"
+msgid "Special effects"
+msgstr "Спецэффекты"
+
+msgctxt "/txt_GenreSport"
+msgid "Sport"
+msgstr "Спорт"
+
+msgctxt "/txt_Sports"
+msgid "Sports"
+msgstr "Спорт"
+
+msgctxt "/txt_Spots"
+msgid "Spots"
+msgstr "Ролики"
+
+msgctxt "/txt_SpotsInBroadcastSchedule"
+msgid "Spots in the broadcast schedule:"
+msgstr "Ролики в расписании:"
+
+msgctxt "/txt_TooltipCustomGame"
+msgid "Start a game with customized settings."
+msgstr "Начать игру со своими настройками."
+
+msgctxt "/txt_TooltipDefaultGame"
+msgid ""
+"Start a game with default settings.\n"
+"■ Tutorial available"
+msgstr ""
+"Игра по умолчанию.\n"
+"■ Обучение доступно"
+
+msgctxt "/txt_StartAndEndOfBroadcast"
+msgid "Start and end of broadcast"
+msgstr "Начало и конец эфира"
+
+msgctxt "/txt_StartGame"
+msgid "Start game"
+msgstr "Сохранить игру"
+
+msgctxt "/txt_StartOfWork"
+msgid "Start of work"
+msgstr "Начало работы"
+
+msgctxt "/txt_StartProduction"
+msgid "Start production"
+msgstr "Начать производство"
+
+msgctxt "/txt_StartTimeBroadcast"
+msgid "Start time of the broadcast schedule"
+msgstr "Время начала эфира"
+
+msgctxt "/txt_StateMediaAuthority"
+msgid "State media authority"
+msgstr "Госкомитет по ТВ и радио"
+
+msgctxt "/txt_Statistics"
+msgid "Statistics"
+msgstr "Статистика"
+
+msgctxt "/txt_StockExchange"
+msgid "Stock exchange news"
+msgstr "Новости биржи"
+
+msgctxt "/txt_StopProduction"
+msgid "Stop current production"
+msgstr "Прервать производство"
+
+msgctxt "/txt_StopMarketing"
+msgid "Stop the marketing campaign"
+msgstr "Остановить маркетинг"
+
+msgctxt "/txt_Help_Archives_2T"
+msgid "Storage space"
+msgstr "Место на складе"
+
+msgctxt "/txt_Update_Archive1"
+msgid "Storage space for 100 objects"
+msgstr "Склад на 100 объектов"
+
+msgctxt "/txt_Update_Archive2"
+msgid "Storage space for 150 objects"
+msgstr "Склад на 150 объектов"
+
+msgctxt "/txt_Update_Archive3"
+msgid "Storage space for 200 objects"
+msgstr "Склад на 200 объектов"
+
+msgctxt "/txt_CptShield"
+msgid "Strange superhero shield"
+msgstr "Странный геройский щит"
+
+msgctxt "/txt_StuntTeam"
+msgid "Stunt team"
+msgstr "Каскадеры"
+
+msgctxt "/txt_TeamStunt_2"
+msgid "Stuntcrew Babelsburg GmbH"
+msgstr "Stuntcrew Babelsburg GmbH"
+
+msgctxt "/txt_SundayShort"
+msgid "Sun."
+msgstr "Вс."
+
+msgctxt "/txt_Sunday"
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgctxt "/txt_TeamMusic_3"
+msgid "Sunset Music & Sound Productions "
+msgstr "Sunset Music & Sound Productions "
+
+msgctxt "/txt_SupportingRole"
+msgid "Supporting Role"
+msgstr "Роль второго плана"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_1"
+msgid "Surge in costs"
+msgstr "Всплеск расходов"
+
+msgctxt "/txt_NPC_Marketing5"
+msgid "Sustainable success comes from endless advertising."
+msgstr "Стабильный успех — результат вечной рекламы."
+
+msgctxt "/txt_SwapItems"
+msgid "Swap items"
+msgstr "Поменять предметы"
+
+msgctxt "/txt_Sweden"
+msgid "Sweden"
+msgstr "Швеция"
+
+msgctxt "/txt_TvOnOff"
+msgid "Switch off TV"
+msgstr "Выключить ТВ"
+
+msgctxt "/txt_Switzerland"
+msgid "Switzerland"
+msgstr "Швейцария"
+
+msgctxt "/txt_Synopsis"
+msgid "Synopsis"
+msgstr "Синопсис"
+
+msgctxt "/txt_SoundFamily"
+msgid "TV Family"
+msgstr "ТВ-семья"
+
+msgctxt "/txt_Help_ShowMarket_2"
+msgid ""
+"TV shows can't be sold. Once all the episodes have aired, the show becomes "
+"outdated and ratings drop significantly."
+msgstr ""
+"Шоу нельзя продать. Когда все серии показаны, оно устаревает и рейтинги "
+"рушатся."
+
+msgctxt "/txt_TvStationClosed"
+msgid "TV station closed"
+msgstr "Телеканал закрыт"
+
+msgctxt "/txt_NPC_Licences7"
+msgid "TV stations without licenses are like antennas without a signal."
+msgstr "Телеканал без лицензии как антенна без сигнала."
+
+msgctxt "/txt_NPC_PiracyMarket8"
+msgid "Take a look at my range. You're sure to find what you're looking for."
+msgstr "Взгляните на ассортимент. Наверняка найдете то, что ищете."
+
+msgctxt "/txt_TakeAllItems"
+msgid "Take all items"
+msgstr "Забрать всё"
+
+msgctxt "/txt_TakeLoan"
+msgid "Take out a loan"
+msgstr "Взять кредит"
+
+msgctxt "/txt_NPC_MovieMarket5"
+msgid ""
+"Take your time browsing. With a little luck, you might find a cult film."
+msgstr "Не спешите. Если повезет, найдете культовую классику."
+
+msgctxt "/txt_TakeRepayLoan"
+msgid "Taking out / repaying a loan"
+msgstr "Кредиты и погашение"
+
+msgctxt "/txt_GenreTalentShow"
+msgid "Talent show"
+msgstr "Шоу талантов"
+
+msgctxt "/txt_GenreTalkShow"
+msgid "Talk Show"
+msgstr "Ток-шоу"
+
+msgctxt "/txt_TargetGroup"
+msgid "Target group"
+msgstr "Целевая аудитория"
+
+msgctxt "/txt_TargetGroup_1"
+msgid "Teens"
+msgstr "Подростки"
+
+msgctxt "/txt_SatelliteName4"
+msgid "Telelink"
+msgstr "Telelink"
+
+msgctxt "/txt_Teleshopping"
+msgid "Teleshopping"
+msgstr "Телемагазин"
+
+msgctxt "/txt_Help_Teleshop_3"
+msgid ""
+"Teleshopping shows cannot be returned. To get rid of them, you must send "
+"them to waste disposal."
+msgstr ""
+"Телемагазины нельзя вернуть. Чтобы убрать их, отправьте их на утилизацию."
+
+msgctxt "/txt_TeleshoppingNotBroadcast"
+msgid "Teleshopping was not broadcasted"
+msgstr "Телемагазин не вышел в эфир"
+
+msgctxt "/txt_TelevisionAward"
+msgid "Television Award"
+msgstr "Телепремия"
+
+msgctxt "/txt_Review_Name2"
+msgid "Television International"
+msgstr "Television International"
+
+msgctxt "/txt_Review_Name0"
+msgid "Television World"
+msgstr "Мир Телевидения"
+
+msgctxt "/txt_Help_MovieAward_2T"
+msgid "Terms and Conditions"
+msgstr "Условия и положения"
+
+msgctxt "/txt_Textures"
+msgid "Texture Quality"
+msgstr "Качество текстур"
+
+msgctxt "/txt_Thailand"
+msgid "Thailand"
+msgstr "Таиланд"
+
+msgctxt "/txt_StartMessage"
+msgid ""
+"Thank you for purchasing “Mad Television Tycoon”. As the game is still in "
+"the Early Access phase, some features have not yet been finalized. You may "
+"also find some bugs and balancing issues. I wish you a lot of fun with the "
+"game!"
+msgstr ""
+"Спасибо за покупку Mad Television Tycoon! Игра находится в раннем доступе, "
+"некоторые функции еще в разработке. Возможны баги и проблемы с балансом. "
+"Приятной игры!"
+
+msgctxt "/txt_TeamCutting_1"
+msgid "The Film Editing Company "
+msgstr "The Film Editing Company "
+
+msgctxt "/txt_FamilyName"
+msgid "The Maddison family"
+msgstr "Семья Мэддисонов"
+
+msgctxt "/txt_TooltipFamily"
+msgid ""
+"The Maddison's are one of many families with special TV's to determine TV "
+"ratings."
+msgstr "Мэддисоны — одна из семей, по чьим телевизорам замеряют рейтинги."
+
+msgctxt "/txt_Review_Name1"
+msgid "The TV Guide"
+msgstr "ТВ-Гид"
+
+msgctxt "/txt_TvClosed"
+msgid "The TV channel is closed."
+msgstr "Телеканал закрыт."
+
+msgctxt "/txt_Help_Schedule_7"
+msgid ""
+"The actuality of movies, series, shows, etc. has a strong impact on ratings."
+msgstr "Актуальность контента сильно влияет на рейтинги."
+
+msgctxt "/txt_Help_MovieMarketPremium_3"
+msgid ""
+"The age of the film does not have such a negative effect on the ratings."
+msgstr "Возраст фильма не так сильно вредит рейтингам."
+
+msgctxt "/txt_Help_MovieMarketRent_3"
+msgid ""
+"The age of the film does not have such a negative effect on the ratings."
+msgstr "Возраст фильма не так сильно вредит рейтингам."
+
+msgctxt "/txt_Help_MovieMarket_2"
+msgid ""
+"The age of the film does not have such a negative effect on the ratings."
+msgstr "Возраст фильма не так сильно вредит рейтингам."
+
+msgctxt "/txt_Help_PiracyMarket_3"
+msgid ""
+"The age of the film does not have such a negative effect on the ratings."
+msgstr "Возраст фильма не так сильно вредит рейтингам."
+
+msgctxt "/txt_Tutorial26_L"
+msgid ""
+"The archive has limited space, but with enough money you can upgrade the "
+"room to expand your storage."
+msgstr ""
+"Место в архиве ограничено, но вы можете расширить склад, улучшив комнату."
+
+msgctxt "/txt_HelloProgramChef6"
+msgid "The bouquet is for Betty!"
+msgstr "Букет для Бетти!"
+
+msgctxt "/txt_Tooltip_RandomEvent_3"
+msgid ""
+"The construction industry is in deep trouble, so transmission towers are "
+"being offered at <Bold>50%</> off."
+msgstr ""
+"Строительная отрасль в кризисе, телевышки продаются со скидкой <Bold>50%</>."
+
+msgctxt "/txt_CostsLevel"
+msgid "The costs increase with the level of the TV channel."
+msgstr "Расходы растут вместе с уровнем канала."
+
+msgctxt "/txt_Help_Evergreen_Text"
+msgid "The film's relevance regenerates much more quickly."
+msgstr "Актуальность этого фильма восстанавливается гораздо быстрее."
+
+msgctxt "/txt_DoormanClosedRoom"
+msgid ""
+"The following room will be closed tomorrow due to construction work: {ROOM}"
+msgstr "Завтра эта комната будет закрыта на ремонт: {ROOM}"
+
+msgctxt "/txt_GameHasSaved"
+msgid "The game has been saved"
+msgstr "Игра сохранена"
+
+msgctxt "/txt_GamePaused"
+msgid "The game is paused"
+msgstr "Игра на паузе"
+
+msgctxt "/txt_NPC_AdvertiseMarket2"
+msgid ""
+"The greater the reach of your TV station, the more lucrative the contracts I "
+"can offer you."
+msgstr "Чем шире охват канала, тем более выгодные контракты я предложу."
+
+msgctxt "/txt_NPC_PiracyMarket4"
+msgid "The image quality of my films is no different from the originals."
+msgstr "Качество картинки моих фильмов не хуже оригиналов."
+
+msgctxt "/txt_Help_TeamsText_1"
+msgid "The importance of production teams varies from genre to genre."
+msgstr "Важность команд производства зависит от жанра."
+
+msgctxt "/txt_Help_TransTower_3"
+msgid ""
+"The level of your TV station determines how many transmission towers you can "
+"own."
+msgstr "Уровень канала определяет лимит владения телевышками."
+
+msgctxt "/txt_Help_News_3"
+msgid ""
+"The more blocks your news program has, the more current stories should be "
+"assigned."
+msgstr ""
+"Чем больше блоков в новостях, тем больше сюжетов нужно добавить.Чем больше "
+"блоков в новостях, тем больше сюжетов нужно добавить."
+
+msgctxt "/txt_Help_Teleshop_2"
+msgid ""
+"The more viewers watch the show, the more money you earn. You can also place "
+"commercials after the show."
+msgstr ""
+"Чем больше зрителей у телемагазина, тем больше ваш доход. После него также "
+"можно ставить рекламу."
+
+msgctxt "/txt_MovieConfiscated"
+msgid "The movie was confiscated"
+msgstr "Фильм был конфискован"
+
+msgctxt "/txt_HelloProgramChef4"
+msgid "The old building had more charm."
+msgstr "У старого здания было больше шарма."
+
+msgctxt "/txt_TooltipFocus"
+msgid "The oversaturation of this type of program decreases faster."
+msgstr "Пресыщение этим типом программ проходит быстрее."
+
+msgctxt "/txt_Help_Satellite_1"
+msgid ""
+"The range of the satellites is limited to the selected location and does not "
+"extend beyond national borders."
+msgstr "Зона действия спутника ограничена выбранным регионом."
+
+msgctxt "/txt_Tooltip_AdvertisementExpired"
+msgid "The remaining time is almost up."
+msgstr "Время почти истекло."
+
+msgctxt "/txt_Robot"
+msgid "The robot looks familiar to me"
+msgstr "Этот робот кажется мне знакомым"
+
+msgctxt "/txt_NPC_Sendeturm3"
+msgid "The sale of transmission towers is always a loss-making business."
+msgstr "Продажа телевышек — дело всегда убыточное."
+
+msgctxt "/txt_NPC_Live8"
+msgid "The transfer of rights for a live event cannot be returned!"
+msgstr "Права на трансляцию нельзя вернуть!"
+
+msgctxt "/txt_NPC_ShowsMarket8"
+msgid "The winner of our last talent show became a superstar!"
+msgstr "Победитель нашего последнего шоу стал суперзвездой!"
+
+msgctxt "/txt_Tutorial20_L"
+msgid ""
+"There are multiple news categories, but currently you can only buy stories "
+"from the ‘International’ category. Licenses for other categories can be "
+"unlocked later. Purchase a story and leave the menu."
+msgstr ""
+"Категорий новостей много, но пока вам доступна только «Международная». "
+"Остальные откроются позже. Купите сюжет и выходите."
+
+msgctxt "/txt_RoomNotFree"
+msgid "There is already someone in this room!"
+msgstr "В этой комнате уже кто-то есть!"
+
+msgctxt "/txt_FeatureNotAvailable"
+msgid "This feature is not yet available."
+msgstr "Эта функция пока недоступна."
+
+msgctxt "/txt_NotMyRoom"
+msgid "This is not my room!"
+msgstr "Это не мой кабинет!"
+
+msgctxt "/txt_Help_Archives_0"
+msgid ""
+"This is your archive. You can move items between your inventory and the "
+"archive. Keep in mind that the archive has limited storage space."
+msgstr ""
+"Это архив. Перемещайте сюда предметы из инвентаря. Место здесь ограничено."
+
+msgctxt "/txt_Help_Schedule_0"
+msgid ""
+"This is your schedule. Here you can plan today’s and tomorrow’s TV "
+"programming."
+msgstr "Это сетка вещания. Здесь планируется программа на сегодня и завтра."
+
+msgctxt "/txt_Renovated"
+msgid "This room is being renovated!"
+msgstr "В комнате идет ремонт!"
+
+msgctxt "/txt_RoomNotAvailable"
+msgid "This room is not yet available."
+msgstr "Эта комната пока недоступна."
+
+msgctxt "/txt_Tutorial2_L"
+msgid ""
+"This screen shows all rooms in the building. Click the highlighted button to "
+"go to your office. Your character will move there automatically."
+msgstr ""
+"Тут видны все комнаты здания. Нажмите на подсвеченную кнопку, чтобы пойти в "
+"офис. Персонаж дойдет туда сам."
+
+msgctxt "/txt_ThisWeek"
+msgid "This week"
+msgstr "На этой неделе"
+
+msgctxt "/txt_GenreThriller"
+msgid "Thriller"
+msgstr "Триллер"
+
+msgctxt "/txt_ThursdayShort"
+msgid "Thu."
+msgstr "Чт."
+
+msgctxt "/txt_Thursday"
+msgid "Thursday"
+msgstr "Четверг"
+
+msgctxt "/txt_Help_LiveMarket_3T"
+msgid "Time"
+msgstr "Время"
+
+msgctxt "/txt_Time"
+msgid "Time"
+msgstr "Время"
+
+msgctxt "/txt_Help_Advertise_3T"
+msgid "Time pressure"
+msgstr "Ограничение по времени\""
+
+msgctxt "/txt_Help_MovieMarketPremium_3T"
+msgid "Timeless"
+msgstr "Вне времени"
+
+msgctxt "/txt_Help_MovieMarketRent_3T"
+msgid "Timeless"
+msgstr "Вне времени"
+
+msgctxt "/txt_Help_MovieMarket_2T"
+msgid "Timeless"
+msgstr "Вне времени"
+
+msgctxt "/txt_Help_PiracyMarket_3T"
+msgid "Timeless"
+msgstr "Вне времени"
+
+msgctxt "/txt_TeamMusic_0"
+msgid "Tin Can Sounds LCC"
+msgstr "Tin Can Sounds LCC"
+
+msgctxt "/txt_TitleProduction"
+msgid "Title"
+msgstr "Название"
+
+msgctxt "/txt:_TitleOfProduction"
+msgid "Title of the production"
+msgstr "\"Название проекта"
+
+msgctxt "/txt_Tutorial24_L"
+msgid ""
+"To add a story to your news broadcast, drag the story from your inventory "
+"and drop it into the highlighted slot. Then you can close the menu."
+msgstr ""
+"Чтобы добавить сюжет в новости, перетащите его из инвентаря в подсвеченный "
+"слот. После этого меню можно закрыть."
+
+msgctxt "/txt_Help_News_4"
+msgid ""
+"To broadcast news programs with more than one block, you must upgrade this "
+"room."
+msgstr "Для выпуска новостей из нескольких блоков нужно улучшить эту комнату."
+
+msgctxt "/txt_NPC_Sendeturm1"
+msgid ""
+"To increase your audience reach, you should buy a new broadcasting tower."
+msgstr "Чтобы увеличить охват, вам стоит купить новую телевышку."
+
+msgctxt "/txt_Help_LiveMarket_5"
+msgid "To purchase live events, your TV channel must have the required level."
+msgstr "Для покупки трансляций ваш канал должен достичь нужного уровня."
+
+msgctxt "/txt_Tutorial12_L"
+msgid ""
+"To reach the advertising agency as quickly as possible, use the elevator and "
+"select your destination."
+msgstr "Чтобы быстро попасть в рекламное агентство, воспользуйтесь лифтом."
+
+msgctxt "/txt_Today"
+msgid "Today"
+msgstr "Сегодня"
+
+msgctxt "/txt_reception2"
+msgid "Today is going to be a wonderful day."
+msgstr "Сегодня будет чудесный день."
+
+msgctxt "/txt_Toilet"
+msgid "Toilet"
+msgstr "Туалет"
+
+msgctxt "/txt_Tomorrow"
+msgid "Tomorrow"
+msgstr "Завтра"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_7"
+msgid "Tornado warning"
+msgstr "Угроза торнадо"
+
+msgctxt "/txt_TotalCostsCast"
+msgid "Total cost for the cast"
+msgstr "Всего на актеров"
+
+msgctxt "/txt_TotalCostsProductionTeams"
+msgid "Total costs for production teams"
+msgstr "Всего на команды"
+
+msgctxt "/txt_Help_MovieMarketPremium_6T"
+msgid "Trade"
+msgstr "Торговля"
+
+msgctxt "/txt_Help_MovieMarket_5T"
+msgid "Trade"
+msgstr "Торговля"
+
+msgctxt "/txt_Trailer"
+msgid "Trailer"
+msgstr "Трейлер"
+
+msgctxt "/txt_TooltipBonusTrailer"
+msgid "Trailers increase your ratings for a while."
+msgstr "Трейлеры временно повышают рейтинги."
+
+msgctxt "/txt_TransferMoney"
+msgid "Transfer money"
+msgstr "Перевести деньги"
+
+msgctxt "/txt_NPC_Sendeturm4"
+msgid ""
+"Transmission towers in densely populated areas are particularly expensive."
+msgstr "Вышки в густонаселенных районах стоят особенно дорого."
+
+msgctxt "/txt_Trend"
+msgid "Trend"
+msgstr "Тренд"
+
+msgctxt "/txt_TrendDays"
+msgid "Trend will continue for {NUM} more days."
+msgstr "Тренд продлится еще {NUM} дн."
+
+msgctxt "/txt_TuesdayShort"
+msgid "Tue."
+msgstr "Вт."
+
+msgctxt "/txt_Tuesday"
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgctxt "/txt_Tutorial"
+msgid "Tutorial"
+msgstr "Обучение"
+
+msgctxt "/txt_Type"
+msgid "Type"
+msgstr "Тип"
+
+msgctxt "/txt_UIScaling"
+msgid "UI Scaling"
+msgstr "Масштаб интерфейса"
+
+msgctxt "/txt_USA"
+msgid "USA"
+msgstr "США"
+
+msgctxt "/txt_TeamCutting_0"
+msgid "Unclean Editing LLC"
+msgstr "Unclean Editing LLC"
+
+msgctxt "/txt_Rarity_1"
+msgid "Uncommon"
+msgstr "Необычный"
+
+msgctxt "/txt_UnitedKingdom"
+msgid "United Kingdom"
+msgstr "Великобритания"
+
+msgctxt "/txt_Unknown"
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgctxt "/txt_Unlimited"
+msgid "Unlimited"
+msgstr "Без ограничений"
+
+msgctxt "/txt_UnlockAllLicenses"
+msgid "Unlock all licenses"
+msgstr "Открыть все лицензии"
+
+msgctxt "/txt_UnlockAllRoomUpdates"
+msgid "Unlock all room updates"
+msgstr "Открыть все улучшения"
+
+msgctxt "/txt_Help_Licence_1T"
+msgid "Unlock licenses"
+msgstr "Доступ к лицензиям"
+
+msgctxt "/txt_TeamPostPro_0"
+msgid "Unpolished LCC"
+msgstr "Unpolished LCC"
+
+msgctxt "/txt_Unpopular"
+msgid "Unpopular"
+msgstr "Непопулярно"
+
+msgctxt "/txt_Help_LiveMarket_4T"
+msgid "Unsaleable"
+msgstr "Не для продажи"
+
+msgctxt "/txt_Help_PiracyMarket_6T"
+msgid "Unsaleable"
+msgstr "Не для продажи"
+
+msgctxt "/txt_Help_ShowMarket_2T"
+msgid "Unsaleable"
+msgstr "Не для продажи"
+
+msgctxt "/txt_Unsaleable"
+msgid "Unsaleable"
+msgstr "Не для продажи"
+
+msgctxt "/txt_UpdateRoom"
+msgid "Update room"
+msgstr "Улучшить комнату"
+
+msgctxt "/txt_Help_Schedule_4T"
+msgid "Variety"
+msgstr "Разнообразие"
+
+msgctxt "/txt_VSync"
+msgid "Vertical Sync"
+msgstr "Вертик. синхронизация"
+
+msgctxt "/txt_Rarity_3"
+msgid "Very Rare"
+msgstr "Очень редкий"
+
+msgctxt "/txt_Viewers"
+msgid "Viewers"
+msgstr "Зрители"
+
+msgctxt "/txt_ViewingFigures"
+msgid "Viewing figures"
+msgstr "Данные просмотров"
+
+msgctxt "/txt_ViolatioYouthProtection"
+msgid "Violation of the Youth Protection Act"
+msgstr "Нарушение закона о защите детей"
+
+msgctxt "/txt_VisibleServerList"
+msgid "Visible in the server list"
+msgstr "Виден в списке"
+
+msgctxt "/txt_VisualEffects"
+msgid "Visual Effects"
+msgstr "Визуальные эффекты"
+
+msgctxt "/txt_Wait"
+msgid "Wait ..."
+msgstr "Ждите..."
+
+msgctxt "/txt_NPC_Marketing4"
+msgid "Want more reach? I have a few suggestions."
+msgstr "Нужен охват? У меня есть предложения."
+
+msgctxt "/txt_WasteDisposal"
+msgid "Waste disposal"
+msgstr "Утилизация отходов"
+
+msgctxt "/txt_NPC_PressAgency4"
+msgid "We bring you the latest news from around the world every day."
+msgstr "Мы приносим свежие мировые новости каждый день."
+
+msgctxt "/txt_NPC_AdvertiseMarket10"
+msgid "We broker advertising contracts from all over the world!"
+msgstr "Мы предлагаем рекламные контракты со всего мира!"
+
+msgctxt "/txt_NPC_SpaceAgency10"
+msgid "We don't sell dreams — just very expensive orbits."
+msgstr "Мы не торгуем мечтами — только очень дорогими орбитами."
+
+msgctxt "/txt_NPC_Licences5"
+msgid "We don't sell paper - we sell rights."
+msgstr "Мы продаем не бумагу, а права."
+
+msgctxt "/txt_NPC_ShowsMarket9"
+msgid "We have hired the most famous presenters for our talk shows."
+msgstr "Для наших ток-шоу мы наняли самых известных ведущих."
+
+msgctxt "/txt_NPC_PressAgency10"
+msgid "We have received some new reports today."
+msgstr "Сегодня поступили новые репортажи."
+
+msgctxt "/txt_NPC_Marketing3"
+msgid "We offer you a comprehensive, worry-free advertising package."
+msgstr "Мы предлагаем полный пакет рекламы «без забот»."
+
+msgctxt "/txt_NPC_Marketing7"
+msgid ""
+"We only suggest marketing campaigns that will have an effective impact on "
+"your ratings. "
+msgstr "Мы предлагаем только те кампании, которые реально поднимут рейтинг. "
+
+msgctxt "/txt_NPC_PressAgency5"
+msgid "We take the press code very seriously!"
+msgstr "Мы строго соблюдаем кодекс прессы!"
+
+msgctxt "/txt_Tooltip_RandomEventTitle_11"
+msgid "Weak marketing performance"
+msgstr "Низкая отдача маркетинга"
+
+msgctxt "/txt_WeatherForecast"
+msgid "Weather forecast"
+msgstr "Прогноз погоды"
+
+msgctxt "/txt_WednesdayShort"
+msgid "Wed."
+msgstr "Ср."
+
+msgctxt "/txt_Wednesday"
+msgid "Wednesday"
+msgstr "Среда"
+
+msgctxt "/txt_Weekday"
+msgid "Weekday"
+msgstr "Будний день"
+
+msgctxt "/txt_Tutorial1_L"
+msgid ""
+"Welcome to ‘Mad Television Tycoon’!\n"
+"I will teach you a few basics to help you get started in the game.\n"
+"\n"
+"First, you should visit your office to get an overview of your broadcast "
+"schedule."
+msgstr ""
+"Добро пожаловать в Mad Television Tycoon!\n"
+"Я научу вас основам игры.\n"
+"\n"
+"Для начала зайдите в свой офис, чтобы взглянуть на сетку вещания."
+
+msgctxt "/txt_NPC_SpaceAgency1"
+msgid ""
+"Welcome! Are you looking for reach... or just a place where your ratings "
+"won't run away?"
+msgstr ""
+"Приветствую! Ищете охват... или просто место, где ваши рейтинги не испарятся?"
+
+msgctxt "/txt_reception5"
+msgid "Welcome, everyone!"
+msgstr "Добро пожаловать!"
+
+msgctxt "/txt_GenreWestern"
+msgid "Western"
+msgstr "Вестерн"
+
+msgctxt "/txt_Help_PremiereText"
+msgid ""
+"When a film or TV series is shown on TV for the first time, the viewing "
+"figures are significantly higher."
+msgstr ""
+"При первом показе фильма или сериала на ТВ число зрителей значительно выше."
+
+msgctxt "/txt_TooltipBonusRain"
+msgid "When it rains, people spend their time at home watching TV."
+msgstr "В дождь люди сидят дома и смотрят телевизор."
+
+msgctxt "/txt_NPC_Recycle4"
+msgid "Which items should I remove?"
+msgstr "Какие предметы мне убрать?"
+
+msgctxt "/txt_TransferMoneyWhich"
+msgid "Which player would you like to transfer money to?"
+msgstr "Какому игроку вы хотите перевести деньги?"
+
+msgctxt "/txt_NPC_PiracyMarket5"
+msgid "Why are you looking at me like that? I have three children to feed."
+msgstr "Что вы на меня так смотрите? Мне нужно кормить троих детей."
+
+msgctxt "/txt_Windowed"
+msgid "Windowed"
+msgstr "В окне"
+
+msgctxt "/txt_WindowedFullscreen"
+msgid "Windowed Fullscreen"
+msgstr "Окно без рамки"
+
+msgctxt "/txt_WinningOption"
+msgid "Winning option"
+msgstr "Условие победы"
+
+msgctxt "/txt_TooltipBonusAward"
+msgid "Winning television awards increases your ratings."
+msgstr "Победа в телепремиях повышает ваши рейтинги."
+
+msgctxt "/txt_NPC_Bank2"
+msgid "With me, you are guaranteed to get the lowest interest rates."
+msgstr "У меня вы гарантированно получите самые низкие проценты."
+
+msgctxt "/txt_NPC_Bank7"
+msgid "With me, you don't need to provide proof of creditworthiness."
+msgstr "Со мной вам не нужно доказывать свою платежеспособность."
+
+msgctxt "/txt_NPC_Marketing9"
+msgid ""
+"Without continuous advertising, you leave the field to your competition."
+msgstr "Без постоянной рекламы вы уступаете рынок конкурентам."
+
+msgctxt "/txt_NPC_Licences10"
+msgid "Without licenses, chaos would break out in the TV industry!"
+msgstr "Без лицензий в индустрии начался бы хаос!"
+
+msgctxt "/txt_NPC_Licences3"
+msgid ""
+"Without sufficient licenses, your broadcasting options will remain limited."
+msgstr "Без нужных лицензий ваши возможности вещания будут ограничены."
+
+msgctxt "/txt_TeamSetContruct_0"
+msgid "Wood & Glue LCC"
+msgstr "Wood & Glue LCC"
+
+msgctxt "/txt_World"
+msgid "World"
+msgstr "Мир"
+
+msgctxt "/txt_Worldwide"
+msgid "Worldwide"
+msgstr "По всему миру"
+
+msgctxt "/txt_NPC_Live10"
+msgid "Would you like me to show you a list of upcoming live events?"
+msgstr "Показать вам список ближайших трансляций?"
+
+msgctxt "/txt_NPC_Licences2"
+msgid "Would you like me to show you an overview of all available licenses?"
+msgstr "Хотите посмотреть список всех доступных лицензий?"
+
+msgctxt "/txt_FilmstudioSelectTitle"
+msgid ""
+"Would you like to start a new production, produce a sequel, or create a new "
+"season of a series?"
+msgstr "Хотите начать новый проект, снять сиквел или новый сезон сериала?"
+
+msgctxt "/txt_Yes"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "/txt_Yesterday"
+msgid "Yesterday"
+msgstr "Вчера"
+
+msgctxt "/txt_Help_Teleshop_4"
+msgid ""
+"You are required to broadcast the program at least once a day, otherwise you "
+"will receive a contractual penalty."
+msgstr ""
+"Вы обязаны выпускать программу минимум раз в день, иначе получите штраф."
+
+msgctxt "/txt_NPC_Licences4"
+msgid "You bring the program, we bring the permission."
+msgstr "С вас программа, с нас — разрешение."
+
+msgctxt "/txt_LicenceText"
+msgid ""
+"You can buy licenses to unlock additional functions for your TV channel."
+msgstr "Лицензии открывают новые функции для вашего канала."
+
+msgctxt "/txt_Tutorial27_L"
+msgid ""
+"You can drag and drop items into the archive individually, or use the "
+"highlighted button to store everything at once. Click ‘Place all items in "
+"the archive’ and then leave the menu."
+msgstr ""
+"Предметы можно перетаскивать по одному или нажать кнопку, чтобы убрать всё "
+"сразу. Нажмите «Отправить всё в архив» и выходите."
+
+msgctxt "/txt_NPC_PressAgency1"
+msgid "You can find the latest press releases on the bulletin board."
+msgstr "Свежие пресс-релизы можно найти на доске объявлений."
+
+msgctxt "/txt_Help_Schedule_8"
+msgid ""
+"You can only schedule movies, series, shows, etc. that have been stored in "
+"your archive."
+msgstr "В сетку можно ставить только то, что перенесено в архив."
+
+msgctxt "/txt_Help_Recycle_1"
+msgid "You can recycle all items that cannot be sold."
+msgstr "Всё, что нельзя продать, можно утилизировать."
+
+msgctxt "/txt_UnlockStateMedia"
+msgid "You can unlock this at the state media authority."
+msgstr "Это можно открыть в Госкомитете."
+
+msgctxt "/txt_Help_Archives_2"
+msgid "You can upgrade this room to get more storage space."
+msgstr "Эту комнату можно улучшить, чтобы расширить склад."
+
+msgctxt "/txt_NPC_Bank5"
+msgid "You can't be broke again."
+msgstr "Неужели вы опять на мели?"
+
+msgctxt "/txt_MB_NewsLock"
+msgid "You can't change that as long as the news is on TV."
+msgstr "Это нельзя изменить, пока новости в эфире."
+
+msgctxt "/txt_MB_CantSellTower"
+msgid "You can't sell your last broadcast tower."
+msgstr "Нельзя продать последнюю телевышку."
+
+msgctxt "/txt_MB_CantRemoveFromArchiv"
+msgid ""
+"You cannot remove the object from the archive as it is in the broadcast "
+"schedule."
+msgstr "Нельзя убрать предмет из архива, пока он стоит в расписании."
+
+msgctxt "/txt_MB_NoName"
+msgid "You didn't enter a name."
+msgstr "Вы не ввели имя."
+
+msgctxt "/txt_MB_NotEnoughReputation"
+msgid "You do not have enough reputation to purchase this item."
+msgstr "У вас недостаточно репутации для покупки."
+
+msgctxt "/txt_MB_NoMarketingRunning"
+msgid "You don't have a marketing campaign running."
+msgstr "У вас нет активных маркетинговых кампаний."
+
+msgctxt "/txt_MB_NoSpaceInventory"
+msgid "You don't have any free space in your inventory."
+msgstr "В инвентаре нет свободного места."
+
+msgctxt "/txt_Tutorial7_L"
+msgid ""
+"You don’t always need to use the elevator to reach another floor. If your "
+"destination is visible on the screen, simply left-click it to go there."
+msgstr ""
+"Лифт не всегда обязателен. Если цель видна на экране, просто кликните по ней "
+"левой кнопкой мыши."
+
+msgctxt "/txt_AdvertisingAlreadySigned"
+msgid "You have already signed this advertising contract."
+msgstr "Этот контракт уже подписан."
+
+msgctxt "/txt_MakeGift"
+msgid "You have made a gift"
+msgstr "Вы сделали подарок"
+
+msgctxt "/txt_Gift"
+msgid "You have received a gift"
+msgstr "Вы получили подарок"
+
+msgctxt "/txt_MB_AllFocusPoints"
+msgid "You haven't assigned all the focus points!"
+msgstr "Вы распределили не все очки фокуса!"
+
+msgctxt "/txt_Help_NewsMarket_4"
+msgid ""
+"You must acquire the appropriate license before you can purchase "
+"Entertainment and Sports stories."
+msgstr ""
+"Нужна соответствующая лицензия, прежде чем покупать сюжеты о спорте или шоу-"
+"бизнесе."
+
+msgctxt "/txt_MB_NoTVChannelName"
+msgid "You must enter a name for your TV channel."
+msgstr "Нужно ввести название телеканала."
+
+msgctxt "/txt_MB_ServerName"
+msgid "You must enter a server name."
+msgstr "Нужно ввести имя сервера."
+
+msgctxt "/txt_MB_NeedLicenceRentalMovie"
+msgid "You need the appropriate license to rent more movies."
+msgstr "Нужна лицензия, чтобы арендовать больше фильмов."
+
+msgctxt "/txt_MB_Screenshot"
+msgid "You need to select a screenshot."
+msgstr "Нужно выбрать скриншот."
+
+msgctxt "/txt_NPC_Marketing10"
+msgid "You should do some marketing. You can't rely on word of mouth."
+msgstr ""
+"Вам стоит заняться маркетингом. На одно «сарафанное радио» полагаться нельзя."
+
+msgctxt "/txt_NPC_PiracyMarket2"
+msgid ""
+"You want to know where I got the movies? Unfortunately, I can't answer that."
+msgstr "Хотите знать, откуда у меня эти фильмы? Увы, без комментариев."
+
+msgctxt "/txt_NPC_MovieMarket3"
+msgid "You'll find the right blockbusters in the premium section."
+msgstr "Настоящие блокбастеры — в премиум-секции."
+
+msgctxt "/txt_MB_MaximumBudget"
+msgid "You've exceeded your maximum budget!"
+msgstr "Бюджет превышен!"
+
+msgctxt "/txt_MB_TooManyFocusPoints"
+msgid "You've set too many focus points!"
+msgstr "Установлено слишком много очков фокуса!"
+
+msgctxt "/txt_GameOverText"
+msgid ""
+"Your TV station has run into financial difficulties and has had to file for "
+"bankruptcy."
+msgstr ""
+"Ваш канал столкнулся с финансовыми трудностями и был вынужден объявить о "
+"банкротстве."
+
+msgctxt "/txt_Help_Licence_1"
+msgid "Your TV station must reach a certain level to unlock the licenses."
+msgstr "Для доступа к лицензиям ваш канал должен достичь определенного уровня."
+
+msgctxt "/txt_MB_CastIsntComplete"
+msgid "Your cast isn't complete!"
+msgstr "Актерский состав не полон!"
+
+msgctxt "/txt_Help_Schedule_1"
+msgid "Your channel’s reputation has a positive effect on ratings."
+msgstr "Репутация канала положительно влияет на рейтинги."
+
+msgctxt "/txt_NPC_Licences6"
+msgid ""
+"Your competition has already been here - do you really want to be left "
+"behind?"
+msgstr "Ваши конкуренты уже были здесь — хотите плестись в хвосте?"
+
+msgctxt "/txt_NPC_Marketing2"
+msgid ""
+"Your competition never sleeps! That's why you should beat the advertising "
+"drum loudly."
+msgstr "Конкуренты не спят! Поэтому о себе нужно заявлять громко."
+
+msgctxt "/txt_NPC_Bank8"
+msgid "Your emergency is my business!"
+msgstr "Ваши проблемы — мой заработок!"
+
+msgctxt "/txt_MB_MaxBroadcastTowers"
+msgid "Your level is too low to purchase another transmission tower."
+msgstr "Уровень слишком низок для покупки новой вышки."
+
+msgctxt "/txt_MB_LevelToLow"
+msgid "Your level is too low to purchase this item."
+msgstr "Уровень слишком низок для покупки этого предмета."
+
+msgctxt "/txt_TooltipOverheat"
+msgid ""
+"Your viewers demand variety. If the same type of program is broadcast too "
+"often, audience ratings will fall."
+msgstr ""
+"Зрителям нужно разнообразие. Если крутить одно и то же, рейтинги упадут."
+
+msgctxt "/txt_Help_Schedule_4"
+msgid ""
+"Your viewers like variety. Your ratings will drop if your schedule consists "
+"only of movies."
+msgstr ""
+"Зрители любят разнообразие. Рейтинги упадут, если в эфире будут одни фильмы."
+
+msgctxt "/txt_Tutorial3_L"
+msgid ""
+"You’ll notice that traveling to your destination can take some time. Time is "
+"an important part of the game, so keep track of it and time your actions "
+"wisely."
+msgstr ""
+"Перемещение занимает время. Время — важный ресурс, так что планируйте свои "
+"действия мудро."
+
+msgctxt "/txt_Tutorial30_L"
+msgid ""
+"You’ve made it! You should now be familiar with the basic mechanics of ‘Mad "
+"Television Tycoon’. Explore the other rooms to discover more features for "
+"your TV channel. You can now end the tutorial."
+msgstr ""
+"Вы справились! Теперь вы знакомы с основами Mad Television Tycoon. "
+"Исследуйте здание, чтобы открыть новые возможности. Обучение завершено."
+
+msgctxt "/txt_DropHere"
+msgid "[ Drop here ]"
+msgstr "[ Положить здесь ]"
+
+msgctxt "/txt_HoursShort"
+msgid "h"
+msgstr "ч"
+
+msgctxt "/txt_RewardPerSpotShort"
+msgid "per Spot"
+msgstr "ролик"
+
+msgctxt "/txt_Until"
+msgid "to"
+msgstr "до"
+
+msgctxt "/txt_XsServer"
+msgid "{NAME}'s server"
+msgstr "Сервер: {NAME}"
+
+msgctxt "/txt_Num_Blocks"
+msgid "{NUM} Blocks"
+msgstr "{NUM} Бл."
+
+msgctxt "/txt_NumDays"
+msgid "{NUM} days"
+msgstr "{NUM} дн."
+
+msgctxt "/txt_numClock"
+msgid "{NUM}:00"
+msgstr "{NUM}:00"
+
+msgctxt "/txt_FilmOnly"
+msgid "{TYP} only"
+msgstr "Только {TYP}"
+
+msgctxt "/txt_EggcodeCredits"
+msgid "©2026 Eggcode Games"
+msgstr "©2026 Eggcode Games"
+
+msgctxt "/txt_Tutorial24_S"
+msgid "■ Add story and close menu"
+msgstr "■ Добавьте сюжет и закройте меню"
+
+msgctxt "/txt_Tutorial10_S"
+msgid "■ Buy a movie and close the menu"
+msgstr "■ Купите фильм и закройте меню"
+
+msgctxt "/txt_Tutorial15_S"
+msgid "■ Click on 'Advertising contracts'"
+msgstr "■ Нажмите «Рекламные контракты»"
+
+msgctxt "/txt_Tutorial9_S"
+msgid "■ Click on 'Buy movies and series'"
+msgstr "■ Нажмите «Купить фильмы и сериалы»"
+
+msgctxt "/txt_Tutorial19_S"
+msgid "■ Click on 'Buy news'"
+msgstr "■ Нажмите «Купить новости»"
+
+msgctxt "/txt_Tutorial23_S"
+msgid "■ Click on 'Manage news'"
+msgstr "■ Нажмите «Управление новостями»"
+
+msgctxt "/txt_Tutorial26_S"
+msgid "■ Click on 'Show archive'"
+msgstr "■ Нажмите «Открыть архив»"
+
+msgctxt "/txt_Tutorial7_S"
+msgid "■ Click on the door of the movie & series market"
+msgstr "■ Кликните по двери рынка кино"
+
+msgctxt "/txt_Tutorial1_S"
+msgid "■ Click on the elevator"
+msgstr "■ Нажмите на лифт"
+
+msgctxt "/txt_Tutorial27_S"
+msgid "■ Click on the highlighted button and exit the menu"
+msgstr "■ Нажмите подсвеченную кнопку и выходите"
+
+msgctxt "/txt_Tutorial13_S"
+msgid "■ Click on the marked button"
+msgstr "■ Нажмите на отмеченную кнопку"
+
+msgctxt "/txt_Tutorial2_S"
+msgid "■ Click on the marked button"
+msgstr "■ Нажмите на отмеченную кнопку"
+
+msgctxt "/txt_Tutorial4_S"
+msgid "■ Click on the ‘Broadcast schedule’ button."
+msgstr "■ Нажмите кнопку «Сетка вещания»"
+
+msgctxt "/txt_Tutorial30_S"
+msgid "■ Close the tutorial"
+msgstr "■ Закройте обучение"
+
+msgctxt "/txt_Tutorial5_S"
+msgid "■ Create your broadcast schedule and exit the menu"
+msgstr "■ Составьте расписание и выходите"
+
+msgctxt "/txt_Tutorial14_S"
+msgid "■ Enter the advertising agency"
+msgstr "■ Войдите в рекламное агентство"
+
+msgctxt "/txt_Tutorial8_S"
+msgid "■ Enter the movie & series market  market"
+msgstr "■ Войдите на рынок кино"
+
+msgctxt "/txt_Tutorial18_S"
+msgid "■ Enter the press agency"
+msgstr "■ Войдите в агентство новостей"
+
+msgctxt "/txt_Tutorial25_S"
+msgid "■ Enter your archive"
+msgstr "■ Войдите в архив"
+
+msgctxt "/txt_Tutorial22_S"
+msgid "■ Enter your newsroom"
+msgstr "■ Войдите в отдел новостей"
+
+msgctxt "/txt_Tutorial3_S"
+msgid "■ Enter your office"
+msgstr "■ Войдите в свой офис"
+
+msgctxt "/txt_Tutorial28_S"
+msgid "■ Go to your office and open the broadcast schedule"
+msgstr "■ Зайдите в офис и откройте расписание"
+
+msgctxt "/txt_Tutorial11_S"
+msgid "■ Leave the room"
+msgstr "■ Выйдите из комнаты"
+
+msgctxt "/txt_Tutorial17_S"
+msgid "■ Leave the room"
+msgstr "■ Выйдите из комнаты"
+
+msgctxt "/txt_Tutorial21_S"
+msgid "■ Leave the room"
+msgstr "■ Выйдите из комнаты"
+
+msgctxt "/txt_Tutorial6_S"
+msgid "■ Leave the room"
+msgstr "■ Выйдите из комнаты"
+
+msgctxt "/txt_Tutorial29_S"
+msgid "■ Place an advertisement and close the menu"
+msgstr "■ Разместите рекламу и закройте меню"
+
+msgctxt "/txt_Tutorial20_S"
+msgid "■ Purchase a story and exit the menu"
+msgstr "■ Купите сюжет и выходите"
+
+msgctxt "/txt_Tutorial16_S"
+msgid "■ Take an advertising contract and exit the menu"
+msgstr "■ Возьмите контракт и выходите"
+
+msgctxt "/txt_Tutorial12_S"
+msgid "■ Use the elevator to get to the advertising agency"
+msgstr "■ На лифте поезжайте в рекламное агентство"
